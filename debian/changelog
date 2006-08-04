@@ -1,3 +1,20 @@
+ubuntu-meta (0.120) dapper-updates; urgency=low
+
+  * Refreshed dependencies
+  * Removed language-pack-ga from live-i386
+  * Removed language-pack-ja from live-powerpc
+  * Removed language-pack-gnome-ga from live-i386
+  * Removed language-pack-gl from live-i386
+  * Removed language-pack-fi from live-i386
+  * Removed language-pack-gnome-gl from live-i386
+  * Removed language-pack-fo from live-i386
+  * Removed language-pack-gnome-fi from live-i386
+  * Removed language-pack-gnome-ja from live-powerpc
+  * Removed language-pack-de from live-amd64, live-powerpc
+  * Removed language-pack-gnome-de from live-amd64, live-powerpc
+
+ -- Colin Watson <cjwatson@ubuntu.com>  Fri,  4 Aug 2006 11:32:46 +0100
+
 ubuntu-meta (0.119) dapper; urgency=low
 
   * Refreshed dependencies
