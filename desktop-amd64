@@ -50,7 +50,6 @@ gimp-python
 gnome-about
 gnome-app-install
 gnome-applets
-gnome-btdownload
 gnome-control-center
 gnome-cups-manager
 gnome-icon-theme
@@ -90,11 +89,13 @@ libglut3
 libgnome2-perl
 libgnomevfs2-bin
 libgnomevfs2-extra
+libnss-mdns
 libpam-foreground
 libpt-plugins-v4l
 libpt-plugins-v4l2
 libsasl2-modules
 libxp6
+linuxprinting.org-ppds
 metacity
 min12xxw
 mkisofs
