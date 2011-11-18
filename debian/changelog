@@ -1,3 +1,10 @@
+ubuntu-meta (1.245.1) oneiric-proposed; urgency=low
+
+  * Refreshed dependencies
+  * Added unity-greeter to desktop (LP: #804171)
+
+ -- Robert Ancell <robert.ancell@canonical.com>  Fri, 18 Nov 2011 16:46:14 +1100
+
 ubuntu-meta (1.245) oneiric; urgency=low
 
   * Refreshed dependencies
