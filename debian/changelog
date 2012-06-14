@@ -1,3 +1,17 @@
+ubuntu-meta (1.273) quantal; urgency=low
+
+  * Refreshed dependencies
+  * Added libreoffice-ogltrans to desktop-recommends [amd64 i386]
+  * Added libreoffice-pdfimport to desktop-recommends [amd64 i386]
+  * Added libreoffice-presentation-minimizer to desktop-recommends
+    [amd64 i386]
+  * Added libreoffice-presenter-console to desktop-recommends [amd64
+    i386]
+  * Added python3-aptdaemon.pkcompat to desktop-recommends
+  * Removed python-aptdaemon.pkcompat from desktop-recommends
+
+ -- Steve Langasek <steve.langasek@ubuntu.com>  Wed, 13 Jun 2012 23:15:16 -0700
+
 ubuntu-meta (1.271) quantal; urgency=low
 
   * Refreshed dependencies
