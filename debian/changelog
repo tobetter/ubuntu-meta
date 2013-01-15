@@ -1,3 +1,13 @@
+ubuntu-meta (1.267.1) precise; urgency=low
+
+  * Refreshed dependencies using precise-proposed; note that this requires
+    germinate 2.12 from raring to update correctly, although not to build.
+  * Removed linux-headers-generic from desktop-recommends [amd64]
+  * Removed linux-headers-generic-pae from desktop-recommends [i386]
+  * Moved cmap-adobe-japan2 to desktop
+
+ -- Colin Watson <cjwatson@ubuntu.com>  Tue, 15 Jan 2013 16:01:38 +0000
+
 ubuntu-meta (1.267) precise; urgency=low
 
   * Refreshed dependencies to fix oversized PowerPC images
