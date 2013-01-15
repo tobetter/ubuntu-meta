@@ -12,7 +12,6 @@ bluez-gstreamer
 branding-ubuntu
 brasero
 brltty
-cmap-adobe-japan2
 cups
 cups-bsd
 cups-client
@@ -64,7 +63,6 @@ libreoffice-math
 libreoffice-style-human
 libreoffice-writer
 libwmf0.2-7-gtk
-linux-headers-generic-pae
 mahjongg
 make
 mousetweaks
