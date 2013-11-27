@@ -1,3 +1,11 @@
+ubuntu-meta (1.310) trusty; urgency=low
+
+  * Refreshed dependencies
+  * Added fonts-droid to desktop-recommends
+  * Removed ttf-wqy-microhei from desktop-recommends
+
+ -- Iain Lane <iain.lane@canonical.com>  Wed, 27 Nov 2013 11:01:45 +0000
+
 ubuntu-meta (1.309) trusty; urgency=low
 
   * Refreshed dependencies
