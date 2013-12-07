@@ -1,3 +1,12 @@
+ubuntu-meta (1.311) trusty; urgency=low
+
+  * Refreshed dependencies
+  * Added kmod to minimal
+  * Removed foomatic-filters from desktop
+  * Removed module-init-tools from minimal
+
+ -- Colin Watson <cjwatson@ubuntu.com>  Sat, 07 Dec 2013 13:37:59 +0000
+
 ubuntu-meta (1.310) trusty; urgency=low
 
   * Refreshed dependencies
