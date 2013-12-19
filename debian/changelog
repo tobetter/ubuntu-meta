@@ -1,3 +1,13 @@
+ubuntu-meta (1.312) trusty; urgency=medium
+
+  * update.cfg: Add ppc64el.
+
+  * Refreshed dependencies
+  * Added cups-filters to desktop-recommends
+  * Added transmission-gtk to desktop-recommends [arm64]
+
+ -- Colin Watson <cjwatson@ubuntu.com>  Thu, 19 Dec 2013 02:39:44 +0000
+
 ubuntu-meta (1.311) trusty; urgency=low
 
   * Refreshed dependencies
