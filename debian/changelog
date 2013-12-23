@@ -1,3 +1,31 @@
+ubuntu-meta (1.313) trusty; urgency=medium
+
+  * Refreshed dependencies
+  * Added dnsutils to standard [ppc64el]
+  * Added eog to desktop [ppc64el]
+  * Added file-roller to desktop [ppc64el]
+  * Added gnome-disk-utility to desktop-recommends [ppc64el]
+  * Added gnome-menus to desktop [ppc64el]
+  * Added gnome-power-manager to desktop [ppc64el]
+  * Added gnome-system-log to desktop [ppc64el]
+  * Added gnome-system-monitor to desktop [ppc64el]
+  * Added gstreamer1.0-pulseaudio to desktop [ppc64el]
+  * Added hplip to desktop-recommends [ppc64el]
+  * Added kbd to minimal [ppc64el]
+  * Added libxp6 to desktop [ppc64el]
+  * Added nautilus to desktop [ppc64el]
+  * Added nautilus-share to desktop-recommends [ppc64el]
+  * Added notify-osd to desktop [ppc64el]
+  * Added ntfs-3g to standard-recommends [ppc64el]
+  * Added remmina to desktop-recommends [ppc64el]
+  * Added seahorse to desktop [ppc64el]
+  * Added strace to standard [ppc64el]
+  * Added update-notifier to desktop [ppc64el]
+  * Added vino to desktop-recommends [ppc64el]
+  * Added xorg to desktop [ppc64el]
+
+ -- Colin Watson <cjwatson@ubuntu.com>  Mon, 23 Dec 2013 17:34:59 +0000
+
 ubuntu-meta (1.312) trusty; urgency=medium
 
   * update.cfg: Add ppc64el.
