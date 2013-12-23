@@ -1,6 +1,7 @@
 busybox-static
 cpio
 cron
+dnsutils
 dosfstools
 ed
 file
@@ -19,6 +20,7 @@ pciutils
 popularity-contest
 psmisc
 rsync
+strace
 time
 usbutils
 wget
