@@ -12,6 +12,7 @@ initramfs-tools
 iproute2
 iputils-ping
 isc-dhcp-client
+kbd
 kmod
 less
 locales

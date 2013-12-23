@@ -30,12 +30,14 @@ fonts-thai-tlwg
 fonts-tibetan-machine
 gcc
 gnome-accessibility-themes
+gnome-disk-utility
 gnome-mahjongg
 gnome-orca
 gnome-screensaver
 gnome-sudoku
 gnomine
 gvfs-fuse
+hplip
 ibus
 ibus-gtk3
 ibus-pinyin
@@ -54,6 +56,7 @@ libreoffice-style-human
 libwmf0.2-7-gtk
 make
 mousetweaks
+nautilus-share
 network-manager-pptp
 network-manager-pptp-gnome
 onboard
@@ -71,6 +74,7 @@ pulseaudio-module-bluetooth
 pulseaudio-module-x11
 python3-aptdaemon.pkcompat
 qt-at-spi
+remmina
 rhythmbox-ubuntuone
 simple-scan
 sni-qt
@@ -82,6 +86,7 @@ ttf-ubuntu-font-family
 ubuntu-docs
 ubuntuone-control-panel-qt
 unity-webapps-common
+vino
 xcursor-themes
 xdg-utils
 xterm
