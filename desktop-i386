@@ -19,6 +19,7 @@ genisoimage
 ghostscript-x
 gnome-calculator
 gnome-control-center
+gnome-control-center-datetime
 gnome-font-viewer
 gnome-menus
 gnome-power-manager
@@ -43,6 +44,7 @@ libpam-systemd
 libsasl2-modules
 libxp6
 lightdm
+memtest86+
 nautilus
 nautilus-sendto
 notify-osd
