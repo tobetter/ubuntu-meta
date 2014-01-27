@@ -1,3 +1,37 @@
+ubuntu-meta (1.314) trusty; urgency=medium
+
+  * Refreshed dependencies
+  * Added brasero to desktop-recommends [ppc64el]
+  * Added cheese to desktop-recommends [ppc64el]
+  * Added deja-dup to desktop-recommends [ppc64el]
+  * Added evince to desktop [ppc64el]
+  * Added gedit to desktop [ppc64el]
+  * Added gnome-bluetooth to desktop-recommends [ppc64el]
+  * Added gnome-control-center to desktop [ppc64el]
+  * Added gnome-control-center-datetime to desktop [amd64 armhf i386
+    powerpc]
+  * Added gnome-control-center-unity to desktop-recommends [ppc64el]
+  * Added gnome-terminal to desktop-recommends [ppc64el]
+  * Added gstreamer0.10-pulseaudio to desktop [ppc64el]
+  * Added gucharmap to desktop [ppc64el]
+  * Added libnss-mdns to desktop-recommends [ppc64el]
+  * Added ltrace to standard [ppc64el]
+  * Added memtest86+ to desktop [amd64 i386]
+  * Added nautilus-sendto to desktop [ppc64el]
+  * Added network-manager-gnome to desktop-recommends [ppc64el]
+  * Added printer-driver-min12xxw to desktop-recommends [ppc64el]
+  * Added rhythmbox to desktop-recommends [ppc64el]
+  * Added rhythmbox-plugin-magnatune to desktop-recommends [ppc64el]
+  * Added shotwell to desktop-recommends [ppc64el]
+  * Added totem to desktop-recommends [ppc64el]
+  * Added totem-mozilla to desktop-recommends [ppc64el]
+  * Added ubuntu-drivers-common to desktop [ppc64el]
+  * Added whoopsie to desktop-recommends [ppc64el]
+  * Removed memtest86+ from standard [amd64 i386]
+  * Removed webbrowser-app from desktop-recommends [amd64 armhf i386]
+
+ -- Iain Lane <iain.lane@canonical.com>  Mon, 27 Jan 2014 10:04:20 +0000
+
 ubuntu-meta (1.313) trusty; urgency=medium
 
   * Refreshed dependencies
