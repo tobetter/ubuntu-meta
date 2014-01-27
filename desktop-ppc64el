@@ -9,13 +9,16 @@ checkbox-qt
 dmz-cursor-theme
 doc-base
 eog
+evince
 file-roller
 fonts-dejavu-core
 fonts-freefont-ttf
 foomatic-db-compressed-ppds
+gedit
 genisoimage
 ghostscript-x
 gnome-calculator
+gnome-control-center
 gnome-font-viewer
 gnome-menus
 gnome-power-manager
@@ -26,9 +29,11 @@ gnome-system-log
 gnome-system-monitor
 gstreamer0.10-alsa
 gstreamer0.10-plugins-base-apps
+gstreamer0.10-pulseaudio
 gstreamer1.0-alsa
 gstreamer1.0-plugins-base-apps
 gstreamer1.0-pulseaudio
+gucharmap
 gvfs-bin
 inputattach
 language-selector-gnome
@@ -39,6 +44,7 @@ libsasl2-modules
 libxp6
 lightdm
 nautilus
+nautilus-sendto
 notify-osd
 openprinting-ppds
 printer-driver-pnm2ppa
@@ -50,6 +56,7 @@ software-properties-gtk
 ssh-askpass-gnome
 system-config-printer-gnome
 ubuntu-artwork
+ubuntu-drivers-common
 ubuntu-extras-keyring
 ubuntu-release-upgrader-gtk
 ubuntu-settings
