@@ -26,6 +26,7 @@ netcat-openbsd
 ntpdate
 passwd
 pmac-fdisk
+powerpc-ibm-utils
 powerpc-utils
 procps
 python3
