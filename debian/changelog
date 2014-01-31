@@ -1,3 +1,13 @@
+ubuntu-meta (1.315) trusty; urgency=medium
+
+  * Refreshed dependencies
+  * Added mac-fdisk to minimal [ppc64el]
+  * Added pmac-fdisk to minimal [ppc64el]
+  * Added powerpc-ibm-utils to minimal [powerpc ppc64el]
+  * Added powerpc-utils to minimal [ppc64el]
+
+ -- Adam Conrad <adconrad@ubuntu.com>  Fri, 31 Jan 2014 13:36:35 +0000
+
 ubuntu-meta (1.314) trusty; urgency=medium
 
   * Refreshed dependencies
