@@ -18,7 +18,6 @@ gedit
 genisoimage
 ghostscript-x
 gnome-calculator
-gnome-control-center
 gnome-font-viewer
 gnome-menus
 gnome-power-manager
@@ -61,6 +60,8 @@ ubuntu-extras-keyring
 ubuntu-release-upgrader-gtk
 ubuntu-settings
 ubuntu-sounds
+unity-control-center
+unity-greeter
 unzip
 update-manager
 update-notifier
