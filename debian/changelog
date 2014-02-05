@@ -1,3 +1,16 @@
+ubuntu-meta (1.316) trusty; urgency=medium
+
+  * Refreshed dependencies
+  * Added libreoffice-presentation-minimizer to desktop-recommends
+    [arm64 ppc64el]
+  * Added unity-control-center to desktop
+  * Added unity-greeter to desktop [ppc64el]
+  * Removed gnome-control-center from desktop
+  * Removed gnome-control-center-datetime from desktop [amd64 armhf i386
+    powerpc]
+
+ -- Robert Ancell <robert.ancell@canonical.com>  Wed, 05 Feb 2014 15:29:23 +0000
+
 ubuntu-meta (1.315) trusty; urgency=medium
 
   * Refreshed dependencies
