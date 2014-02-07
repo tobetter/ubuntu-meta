@@ -24,6 +24,7 @@ gnome-power-manager
 gnome-screenshot
 gnome-session
 gnome-session-canberra
+gnome-settings-daemon
 gnome-system-log
 gnome-system-monitor
 gstreamer0.10-alsa
