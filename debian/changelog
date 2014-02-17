@@ -1,3 +1,12 @@
+ubuntu-meta (1.319) trusty; urgency=medium
+
+  * Refreshed dependencies
+  * Added transmission-gtk to desktop-recommends [ppc64el]
+  * Removed unity-control-center-datetime from desktop [amd64 armhf i386
+    powerpc]
+
+ -- Iain Lane <iain.lane@canonical.com>  Mon, 17 Feb 2014 23:15:01 +0000
+
 ubuntu-meta (1.318) trusty; urgency=medium
 
   * Refreshed dependencies
