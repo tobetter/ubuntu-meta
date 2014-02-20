@@ -1,3 +1,11 @@
+ubuntu-meta (1.321) trusty; urgency=medium
+
+  * Refreshed dependencies
+  * Added unity-settings-daemon to desktop
+  * Removed gnome-settings-daemon from desktop
+
+ -- Robert Ancell <robert.ancell@canonical.com>  Thu, 20 Feb 2014 20:30:26 +1300
+
 ubuntu-meta (1.320) trusty; urgency=medium
 
   * Refreshed dependencies
