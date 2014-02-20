@@ -23,7 +23,6 @@ gnome-menus
 gnome-power-manager
 gnome-screenshot
 gnome-session-canberra
-gnome-settings-daemon
 gnome-system-log
 gnome-system-monitor
 gstreamer0.10-alsa
@@ -64,6 +63,7 @@ ubuntu-sounds
 unity
 unity-control-center
 unity-greeter
+unity-settings-daemon
 unzip
 update-manager
 update-notifier
