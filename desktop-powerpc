@@ -5,7 +5,6 @@ at-spi2-core
 baobab
 bc
 ca-certificates
-checkbox-qt
 dmz-cursor-theme
 doc-base
 eog
@@ -22,7 +21,6 @@ gnome-font-viewer
 gnome-menus
 gnome-power-manager
 gnome-screenshot
-gnome-session
 gnome-session-canberra
 gnome-settings-daemon
 gnome-system-log
@@ -60,6 +58,7 @@ ubuntu-artwork
 ubuntu-drivers-common
 ubuntu-extras-keyring
 ubuntu-release-upgrader-gtk
+ubuntu-session
 ubuntu-settings
 ubuntu-sounds
 unity
