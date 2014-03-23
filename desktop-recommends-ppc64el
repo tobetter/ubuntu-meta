@@ -18,6 +18,7 @@ cups-client
 cups-filters
 deja-dup
 deja-dup-backend-ubuntuone
+empathy
 example-content
 fonts-droid
 fonts-kacst-one
@@ -46,7 +47,6 @@ hplip
 ibus
 ibus-gtk3
 ibus-pinyin
-ibus-pinyin-db-android
 ibus-table
 im-config
 kerneloops-daemon
