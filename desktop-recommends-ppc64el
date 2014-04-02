@@ -17,7 +17,6 @@ cups-bsd
 cups-client
 cups-filters
 deja-dup
-deja-dup-backend-ubuntuone
 empathy
 example-content
 fonts-droid
@@ -86,7 +85,6 @@ qt-at-spi
 remmina
 rhythmbox
 rhythmbox-plugin-magnatune
-rhythmbox-ubuntuone
 shotwell
 simple-scan
 sni-qt
@@ -99,7 +97,6 @@ ttf-indic-fonts-core
 ttf-punjabi-fonts
 ttf-ubuntu-font-family
 ubuntu-docs
-ubuntuone-control-panel-qt
 unity-webapps-common
 vino
 whoopsie

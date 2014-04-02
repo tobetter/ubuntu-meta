@@ -1,3 +1,12 @@
+ubuntu-meta (1.323) trusty; urgency=medium
+
+  * Refreshed dependencies (LP: #1300916)
+  * Removed deja-dup-backend-ubuntuone from desktop-recommends
+  * Removed rhythmbox-ubuntuone from desktop-recommends
+  * Removed ubuntuone-control-panel-qt from desktop-recommends
+
+ -- Dimitri John Ledkov <xnox@ubuntu.com>  Wed, 02 Apr 2014 14:54:07 +0100
+
 ubuntu-meta (1.322) trusty; urgency=medium
 
   * Refreshed dependencies
