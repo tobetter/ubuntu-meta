@@ -61,6 +61,7 @@ ubuntu-release-upgrader-gtk
 ubuntu-session
 ubuntu-settings
 ubuntu-sounds
+ubuntu-sso-client-qt
 unity
 unity-control-center
 unity-greeter
