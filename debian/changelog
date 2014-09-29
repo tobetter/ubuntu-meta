@@ -1,3 +1,15 @@
+ubuntu-meta (1.326) utopic; urgency=medium
+
+  * update.cfg: Switch to utopic.
+  * Refreshed dependencies
+  * Added firefox to desktop-recommends [arm64 ppc64el]
+  * Added printer-driver-brlaser to desktop-recommends (LP: #1355136)
+  * Added thunderbird to desktop-recommends [arm64 ppc64el]
+  * Added thunderbird-gnome-support to desktop-recommends [arm64
+    ppc64el]
+
+ -- Martin Pitt <martin.pitt@ubuntu.com>  Mon, 29 Sep 2014 17:13:37 +0200
+
 ubuntu-meta (1.325) trusty; urgency=medium
 
   * Refreshed dependencies
