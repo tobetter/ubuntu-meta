@@ -18,6 +18,7 @@ cups-filters
 deja-dup
 empathy
 example-content
+firefox
 fonts-droid
 fonts-kacst-one
 fonts-khmeros-core
@@ -70,6 +71,7 @@ overlay-scrollbar
 pcmciautils
 plymouth-theme-ubuntu-logo
 policykit-desktop-privileges
+printer-driver-brlaser
 printer-driver-c2esp
 printer-driver-foo2zjs
 printer-driver-min12xxw
@@ -89,6 +91,8 @@ simple-scan
 sni-qt
 speech-dispatcher
 telepathy-idle
+thunderbird
+thunderbird-gnome-support
 totem
 totem-mozilla
 transmission-gtk
