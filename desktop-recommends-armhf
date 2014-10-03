@@ -1,4 +1,4 @@
-activity-log-manager-control-center
+activity-log-manager
 aisleriot
 app-install-data-partner
 apport-gtk
@@ -36,11 +36,11 @@ gnome-accessibility-themes
 gnome-bluetooth
 gnome-disk-utility
 gnome-mahjongg
+gnome-mines
 gnome-orca
 gnome-screensaver
 gnome-sudoku
 gnome-terminal
-gnomine
 gvfs-fuse
 hplip
 ibus
