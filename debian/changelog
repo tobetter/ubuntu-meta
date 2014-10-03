@@ -1,3 +1,17 @@
+ubuntu-meta (1.327) utopic; urgency=medium
+
+  * Refreshed dependencies (LP: #1366388, #1366280)
+  * Added activity-log-manager to desktop-recommends
+  * Added gnome-mines to desktop-recommends [amd64 arm64 armhf i386
+    ppc64el]
+  * Removed activity-log-manager-control-center from desktop-recommends
+  * Removed gnomine from desktop-recommends [amd64 arm64 armhf i386
+    ppc64el]
+  * Removed libreoffice-presentation-minimizer from desktop-recommends
+    [amd64 arm64 i386 ppc64el]
+
+ -- Adam Conrad <adconrad@ubuntu.com>  Thu, 02 Oct 2014 21:18:37 -0600
+
 ubuntu-meta (1.326) utopic; urgency=medium
 
   * update.cfg: Switch to utopic.
