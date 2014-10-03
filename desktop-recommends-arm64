@@ -1,4 +1,4 @@
-activity-log-manager-control-center
+activity-log-manager
 aisleriot
 app-install-data-partner
 apport-gtk
@@ -36,11 +36,11 @@ gnome-accessibility-themes
 gnome-bluetooth
 gnome-disk-utility
 gnome-mahjongg
+gnome-mines
 gnome-orca
 gnome-screensaver
 gnome-sudoku
 gnome-terminal
-gnomine
 gvfs-fuse
 hplip
 ibus
@@ -57,7 +57,6 @@ libpam-gnome-keyring
 libproxy1-plugin-gsettings
 libproxy1-plugin-networkmanager
 libqt4-sql-sqlite
-libreoffice-presentation-minimizer
 libreoffice-style-human
 libwmf0.2-7-gtk
 make

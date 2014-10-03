@@ -1,5 +1,5 @@
 acpi-support
-activity-log-manager-control-center
+activity-log-manager
 aisleriot
 app-install-data-partner
 apport-gtk
@@ -37,11 +37,11 @@ gnome-accessibility-themes
 gnome-bluetooth
 gnome-disk-utility
 gnome-mahjongg
+gnome-mines
 gnome-orca
 gnome-screensaver
 gnome-sudoku
 gnome-terminal
-gnomine
 gvfs-fuse
 hplip
 ibus
@@ -64,7 +64,6 @@ libreoffice-impress
 libreoffice-math
 libreoffice-ogltrans
 libreoffice-pdfimport
-libreoffice-presentation-minimizer
 libreoffice-style-human
 libreoffice-writer
 libwmf0.2-7-gtk
