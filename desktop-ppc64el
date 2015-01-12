@@ -55,7 +55,6 @@ ssh-askpass-gnome
 system-config-printer-gnome
 ubuntu-artwork
 ubuntu-drivers-common
-ubuntu-extras-keyring
 ubuntu-release-upgrader-gtk
 ubuntu-session
 ubuntu-settings
