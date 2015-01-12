@@ -1,3 +1,12 @@
+ubuntu-meta (1.328) vivid; urgency=medium
+
+  * update.cfg: Switch to vivid.
+  * Refreshed dependencies
+  * Added ttf-ancient-fonts-symbola to desktop-recommends
+  * Removed ubuntu-extras-keyring from desktop (LP: #1409555)
+
+ -- Dimitri John Ledkov <dimitri.j.ledkov@linux.intel.com>  Mon, 12 Jan 2015 23:54:22 +0000
+
 ubuntu-meta (1.327) utopic; urgency=medium
 
   * Refreshed dependencies (LP: #1366388, #1366280)
