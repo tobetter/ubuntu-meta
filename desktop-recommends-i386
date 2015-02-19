@@ -45,6 +45,7 @@ gnome-terminal
 gvfs-fuse
 hplip
 ibus
+ibus-gtk
 ibus-gtk3
 ibus-pinyin
 ibus-table
