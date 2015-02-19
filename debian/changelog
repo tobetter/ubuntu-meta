@@ -1,3 +1,10 @@
+ubuntu-meta (1.329) vivid; urgency=medium
+
+  * Refreshed dependencies
+  * Added ibus-gtk to desktop-recommends (LP: #1377370)
+
+ -- Daniel Holbach <daniel.holbach@ubuntu.com>  Thu, 19 Feb 2015 14:49:48 +0100
+
 ubuntu-meta (1.328) vivid; urgency=medium
 
   * update.cfg: Switch to vivid.
