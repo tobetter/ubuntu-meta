@@ -8,6 +8,7 @@ debconf-i18n
 eject
 gnupg
 ifupdown
+init
 initramfs-tools
 iproute2
 iputils-ping
@@ -36,7 +37,6 @@ sudo
 tzdata
 ubuntu-keyring
 udev
-upstart
 ureadahead
 vim-tiny
 whiptail
