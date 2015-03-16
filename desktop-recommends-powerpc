@@ -41,7 +41,6 @@ hplip
 ibus
 ibus-gtk
 ibus-gtk3
-ibus-pinyin
 ibus-table
 im-config
 kerneloops-daemon
@@ -102,3 +101,4 @@ xdg-utils
 xterm
 xul-ext-ubufox
 xul-ext-unity
+xul-ext-webaccounts
