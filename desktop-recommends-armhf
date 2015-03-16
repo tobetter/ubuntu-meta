@@ -46,7 +46,6 @@ hplip
 ibus
 ibus-gtk
 ibus-gtk3
-ibus-pinyin
 ibus-table
 im-config
 kerneloops-daemon
