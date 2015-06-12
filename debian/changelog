@@ -1,3 +1,13 @@
+ubuntu-meta (1.335) wily; urgency=medium
+
+  * update.cfg: Switch to wily.
+  * Refreshed dependencies
+  * Added dmidecode to standard [arm64]
+  * Added zeitgeist-core, zeitgeist-datahub to desktop-recommends (LP: #1440373)
+  * Removed init from minimal
+
+ -- Robert Ancell <robert.ancell@canonical.com>  Fri, 12 Jun 2015 15:57:56 +1200
+
 ubuntu-meta (1.334) vivid; urgency=medium
 
   * Refreshed dependencies
