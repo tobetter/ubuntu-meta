@@ -22,7 +22,6 @@ mawk
 net-tools
 netbase
 netcat-openbsd
-ntpdate
 passwd
 procps
 python3

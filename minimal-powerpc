@@ -23,7 +23,6 @@ mawk
 net-tools
 netbase
 netcat-openbsd
-ntpdate
 passwd
 pmac-fdisk
 powerpc-ibm-utils
