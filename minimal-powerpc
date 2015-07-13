@@ -17,14 +17,12 @@ kmod
 less
 locales
 lsb-release
-mac-fdisk
 makedev
 mawk
 net-tools
 netbase
 netcat-openbsd
 passwd
-pmac-fdisk
 powerpc-ibm-utils
 powerpc-utils
 procps

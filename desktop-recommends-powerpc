@@ -34,9 +34,11 @@ gcc
 gnome-accessibility-themes
 gnome-bluetooth
 gnome-disk-utility
+gnome-keyring
 gnome-orca
 gnome-screensaver
 gnome-terminal
+gnupg-agent
 gvfs-fuse
 hplip
 ibus
