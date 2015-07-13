@@ -1,3 +1,13 @@
+ubuntu-meta (1.337) wily; urgency=medium
+
+  * Refreshed dependencies
+  * Added gnome-keyring to desktop-recommends
+  * Added gnupg-agent to desktop-recommends
+  * Removed mac-fdisk from minimal [powerpc ppc64el]
+  * Removed pmac-fdisk from minimal [powerpc ppc64el]
+
+ -- Iain Lane <iain.lane@canonical.com>  Mon, 13 Jul 2015 09:43:07 +0100
+
 ubuntu-meta (1.336) wily; urgency=medium
 
   * Refreshed dependencies
