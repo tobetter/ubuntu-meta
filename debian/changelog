@@ -1,3 +1,12 @@
+ubuntu-meta (1.338) wily; urgency=medium
+
+  * Refreshed dependencies (LP: #1452472)
+  * Removed gstreamer0.10-alsa from desktop
+  * Removed gstreamer0.10-plugins-base-apps from desktop
+  * Removed gstreamer0.10-pulseaudio from desktop
+
+ -- Iain Lane <iain.lane@canonical.com>  Mon, 27 Jul 2015 18:04:12 +0100
+
 ubuntu-meta (1.337) wily; urgency=medium
 
   * Refreshed dependencies
