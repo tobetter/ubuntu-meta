@@ -1,3 +1,10 @@
+ubuntu-meta (1.339) wily; urgency=medium
+
+  * Refreshed dependencies
+  * Removed bluez-alsa from desktop-recommends
+
+ -- Adam Conrad <adconrad@ubuntu.com>  Sun, 16 Aug 2015 14:35:59 -0600
+
 ubuntu-meta (1.338) wily; urgency=medium
 
   * Refreshed dependencies (LP: #1452472)
