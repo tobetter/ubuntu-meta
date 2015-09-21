@@ -1,3 +1,18 @@
+ubuntu-meta (1.341) wily; urgency=medium
+
+  * Refreshed dependencies
+  * Added libreoffice-calc to desktop-recommends [arm64 ppc64el]
+  * Added libreoffice-gnome to desktop-recommends [arm64 ppc64el]
+  * Added libreoffice-impress to desktop-recommends [arm64 ppc64el]
+  * Added libreoffice-math to desktop-recommends [arm64 ppc64el]
+  * Added libreoffice-ogltrans to desktop-recommends [arm64 ppc64el]
+  * Added libreoffice-pdfimport to desktop-recommends [arm64 ppc64el]
+  * Added libreoffice-writer to desktop-recommends [arm64 ppc64el]
+  * Removed xul-ext-unity from desktop-recommends
+  * Removed xul-ext-webaccounts from desktop-recommends
+
+ -- Martin Pitt <martin.pitt@ubuntu.com>  Mon, 21 Sep 2015 07:16:30 +0200
+
 ubuntu-meta (1.340) wily; urgency=medium
 
   * Refreshed dependencies

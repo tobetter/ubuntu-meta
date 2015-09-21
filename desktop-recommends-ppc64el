@@ -59,7 +59,14 @@ libpam-gnome-keyring
 libproxy1-plugin-gsettings
 libproxy1-plugin-networkmanager
 libqt4-sql-sqlite
+libreoffice-calc
+libreoffice-gnome
+libreoffice-impress
+libreoffice-math
+libreoffice-ogltrans
+libreoffice-pdfimport
 libreoffice-style-human
+libreoffice-writer
 libwmf0.2-7-gtk
 make
 mousetweaks
@@ -107,7 +114,5 @@ xcursor-themes
 xdg-utils
 xterm
 xul-ext-ubufox
-xul-ext-unity
-xul-ext-webaccounts
 zeitgeist-core
 zeitgeist-datahub
