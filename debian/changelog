@@ -1,3 +1,52 @@
+ubuntu-meta (1.342) xenial; urgency=medium
+
+  * Refreshed dependencies
+  * Added aisleriot to desktop-recommends [powerpc]
+  * Added branding-ubuntu to desktop-recommends [powerpc]
+  * Added gnome-mahjongg to desktop-recommends [powerpc]
+  * Added gnome-mines to desktop-recommends [powerpc]
+  * Added gnome-sudoku to desktop-recommends [powerpc]
+  * Added libreoffice-calc to desktop-recommends [armhf powerpc]
+  * Added libreoffice-gnome to desktop-recommends [armhf powerpc]
+  * Added libreoffice-impress to desktop-recommends [armhf powerpc]
+  * Added libreoffice-math to desktop-recommends [armhf powerpc]
+  * Added libreoffice-ogltrans to desktop-recommends [armhf powerpc]
+  * Added libreoffice-pdfimport to desktop-recommends [armhf powerpc]
+  * Added libreoffice-style-human to desktop-recommends [armhf powerpc]
+  * Added libreoffice-writer to desktop-recommends [armhf powerpc]
+  * Added overlay-scrollbar-gtk2 to desktop-recommends
+  * Added thunderbird to desktop-recommends [armhf]
+  * Added thunderbird-gnome-support to desktop-recommends [armhf]
+  * Removed brasero from desktop-recommends
+  * Removed empathy from desktop-recommends
+  * Removed gcc from desktop-recommends
+  * Removed landscape-client-ui-install from desktop-recommends
+  * Removed make from desktop-recommends
+  * Removed network-manager-pptp from desktop-recommends
+  * Removed overlay-scrollbar from desktop-recommends
+  * Removed rhythmbox-plugin-magnatune from desktop-recommends
+  * Removed ssh-askpass-gnome from desktop
+  * Removed telepathy-idle from desktop-recommends
+  * Removed unity-webapps-common from desktop-recommends
+  * Moved baobab to desktop-recommends
+  * Moved eog to desktop-recommends
+  * Moved evince to desktop-recommends
+  * Moved file-roller to desktop-recommends
+  * Moved gedit to desktop-recommends
+  * Moved gnome-calculator to desktop-recommends
+  * Moved gnome-font-viewer to desktop-recommends
+  * Moved gnome-power-manager to desktop-recommends
+  * Moved gnome-screenshot to desktop-recommends
+  * Moved gnome-system-log to desktop-recommends
+  * Moved gnome-system-monitor to desktop-recommends
+  * Moved gucharmap to desktop-recommends
+  * Moved nautilus-sendto to desktop-recommends
+  * Moved seahorse to desktop-recommends
+  * Moved software-center to desktop-recommends
+  * Moved system-config-printer-gnome to desktop-recommends
+
+ -- Iain Lane <iain.lane@canonical.com>  Mon, 16 Nov 2015 16:54:52 +0000
+
 ubuntu-meta (1.341) wily; urgency=medium
 
   * Refreshed dependencies
