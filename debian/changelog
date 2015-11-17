@@ -1,3 +1,10 @@
+ubuntu-meta (1.343) xenial; urgency=medium
+
+  * Refreshed dependencies
+  * Added unity-webapps-common to desktop-recommends
+
+ -- Iain Lane <iain@orangesquash.org.uk>  Tue, 17 Nov 2015 17:50:55 +0000
+
 ubuntu-meta (1.342) xenial; urgency=medium
 
   * Refreshed dependencies
