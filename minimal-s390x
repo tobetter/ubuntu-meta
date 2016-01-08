@@ -23,6 +23,7 @@ net-tools
 netbase
 netcat-openbsd
 passwd
+procps
 python3
 resolvconf
 rsyslog
