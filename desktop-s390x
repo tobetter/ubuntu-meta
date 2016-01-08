@@ -4,6 +4,7 @@ anacron
 at-spi2-core
 bc
 ca-certificates
+checkbox-gui
 dmz-cursor-theme
 doc-base
 fonts-dejavu-core
@@ -16,12 +17,15 @@ gnome-session-canberra
 gstreamer1.0-alsa
 gstreamer1.0-plugins-base-apps
 gstreamer1.0-pulseaudio
+gvfs-bin
 inputattach
 language-selector-gnome
 libatk-adaptor
 libnotify-bin
 libpam-systemd
 libsasl2-modules
+lightdm
+nautilus
 notify-osd
 openprinting-ppds
 printer-driver-pnm2ppa
@@ -35,8 +39,12 @@ ubuntu-session
 ubuntu-settings
 ubuntu-sounds
 ubuntu-sso-client-qt
+unity-control-center
+unity-greeter
+unity-settings-daemon
 unzip
 update-manager
+update-notifier
 wireless-tools
 wpasupplicant
 xdg-user-dirs

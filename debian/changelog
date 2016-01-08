@@ -1,3 +1,45 @@
+ubuntu-meta (1.346) xenial; urgency=medium
+
+  * Refreshed dependencies
+  * Added activity-log-manager to desktop-recommends [s390x]
+  * Added checkbox-gui to desktop [s390x]
+  * Added deja-dup to desktop-recommends [s390x]
+  * Added evince to desktop-recommends [s390x]
+  * Added file-roller to desktop-recommends [s390x]
+  * Added gnome-calendar to desktop-recommends
+  * Added gnome-screensaver to desktop-recommends [s390x]
+  * Added gnome-terminal to desktop-recommends [s390x]
+  * Added gvfs-bin to desktop [s390x]
+  * Added gvfs-fuse to desktop-recommends [s390x]
+  * Added kerneloops-daemon to desktop-recommends [s390x]
+  * Added libreoffice-calc to desktop-recommends [s390x]
+  * Added libreoffice-gnome to desktop-recommends [s390x]
+  * Added libreoffice-impress to desktop-recommends [s390x]
+  * Added libreoffice-math to desktop-recommends [s390x]
+  * Added libreoffice-ogltrans to desktop-recommends [s390x]
+  * Added libreoffice-pdfimport to desktop-recommends [s390x]
+  * Added libreoffice-writer to desktop-recommends [s390x]
+  * Added lightdm to desktop [s390x]
+  * Added nautilus to desktop [s390x]
+  * Added nautilus-share to desktop-recommends [s390x]
+  * Added network-manager-gnome to desktop-recommends [s390x]
+  * Added network-manager-pptp-gnome to desktop-recommends [s390x]
+  * Added procps to minimal [s390x]
+  * Added remmina to desktop-recommends [s390x]
+  * Added rhythmbox to desktop-recommends [s390x]
+  * Added shotwell to desktop-recommends [s390x]
+  * Added totem to desktop-recommends [s390x]
+  * Added transmission-gtk to desktop-recommends [s390x]
+  * Added unity-control-center to desktop [s390x]
+  * Added unity-greeter to desktop [s390x]
+  * Added unity-settings-daemon to desktop [s390x]
+  * Added update-notifier to desktop [s390x]
+  * Added vino to desktop-recommends [s390x]
+  * Added zeitgeist-core to desktop-recommends [s390x]
+  * Added zeitgeist-datahub to desktop-recommends [s390x]
+
+ -- Iain Lane <iain.lane@canonical.com>  Fri, 08 Jan 2016 09:28:52 +0000
+
 ubuntu-meta (1.345) xenial; urgency=high
 
   * Only build minimal and standard for s390x.
