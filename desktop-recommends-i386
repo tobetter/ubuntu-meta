@@ -21,7 +21,6 @@ evince
 example-content
 file-roller
 firefox
-fonts-droid
 fonts-guru
 fonts-kacst-one
 fonts-khmeros-core
@@ -29,6 +28,7 @@ fonts-lao
 fonts-liberation
 fonts-lklug-sinhala
 fonts-nanum
+fonts-noto-cjk
 fonts-sil-abyssinica
 fonts-sil-padauk
 fonts-takao-pgothic
@@ -48,6 +48,7 @@ gnome-orca
 gnome-power-manager
 gnome-screensaver
 gnome-screenshot
+gnome-software
 gnome-sudoku
 gnome-system-log
 gnome-system-monitor
@@ -88,6 +89,9 @@ overlay-scrollbar-gtk2
 pcmciautils
 plymouth-theme-ubuntu-logo
 policykit-desktop-privileges
+ppp
+pppconfig
+pppoeconf
 printer-driver-brlaser
 printer-driver-c2esp
 printer-driver-foo2zjs
@@ -106,7 +110,6 @@ seahorse
 shotwell
 simple-scan
 sni-qt
-software-center
 speech-dispatcher
 system-config-printer-gnome
 thunderbird
