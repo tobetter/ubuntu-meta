@@ -1,3 +1,41 @@
+ubuntu-meta (1.348) xenial; urgency=medium
+
+  * Refreshed dependencies
+  * Added bcache-tools to server
+  * Added cloud-guest-utils to server
+  * Added cloud-initramfs-copymods to server
+  * Added cloud-initramfs-dyn-netconf to server
+  * Added fonts-noto-cjk to desktop-recommends
+  * Added gnome-software to desktop-recommends
+  * Added grub-legacy-ec2 to server [amd64 arm64 armhf i386 powerpc
+    ppc64el]
+  * Added ifenslave to server
+  * Added lvm2 to server
+  * Added lxd to server
+  * Added mdadm to server
+  * Added open-iscsi to server
+  * Added open-vm-tools to server [amd64 i386]
+  * Added overlayroot to server
+  * Added ppp to desktop-recommends
+  * Added pppconfig to desktop-recommends
+  * Added pppoeconf to desktop-recommends
+  * Added s390-tools to minimal [s390x]
+  * Added sosreport to server
+  * Added tmux to server
+  * Added vlan to server
+  * Removed fonts-droid from desktop-recommends
+  * Removed memtest86+ from server [amd64 i386]
+  * Removed ppp from standard-recommends
+  * Removed pppconfig from standard-recommends
+  * Removed pppoeconf from standard-recommends
+  * Removed software-center from desktop-recommends
+  * Removed ubuntu-sso-client-qt from desktop
+  * Removed w3m from server
+  * Removed wireless-tools from server
+  * Removed wpasupplicant from server
+
+ -- Robert Ancell <robert.ancell@canonical.com>  Wed, 17 Feb 2016 12:03:59 -0800
+
 ubuntu-meta (1.347) xenial; urgency=medium
 
   * Refreshed dependencies
