@@ -76,7 +76,7 @@ libreoffice-impress
 libreoffice-math
 libreoffice-ogltrans
 libreoffice-pdfimport
-libreoffice-style-human
+libreoffice-style-breeze
 libreoffice-writer
 libwmf0.2-7-gtk
 mousetweaks
@@ -117,7 +117,6 @@ thunderbird-gnome-support
 totem
 transmission-gtk
 ttf-ancient-fonts-symbola
-ttf-indic-fonts-core
 ttf-ubuntu-font-family
 ubuntu-docs
 unity-webapps-common
