@@ -1,3 +1,12 @@
+ubuntu-meta (1.349) xenial; urgency=medium
+
+  * Refreshed dependencies
+  * Removed libreoffice-style-human from desktop-recommends
+  * Removed ttf-indic-fonts-core from desktop-recommends
+  * Added libreoffice-style-breeze to desktop-recommends
+
+ -- Iain Lane <iain.lane@canonical.com>  Wed, 02 Mar 2016 14:27:16 +0000
+
 ubuntu-meta (1.348) xenial; urgency=medium
 
   * Refreshed dependencies
