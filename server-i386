@@ -24,6 +24,7 @@ screen
 software-properties-common
 sosreport
 tmux
+ubuntu-cloudimage-keyring
 update-notifier-common
 vim
 vlan
