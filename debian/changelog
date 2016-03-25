@@ -1,3 +1,10 @@
+ubuntu-meta (1.352) xenial; urgency=medium
+
+  * Refreshed dependencies
+  * Added ubuntu-cloudimage-keyring to server
+
+ -- Steve Langasek <steve.langasek@ubuntu.com>  Fri, 25 Mar 2016 01:44:43 +0000
+
 ubuntu-meta (1.351) xenial; urgency=medium
 
   * Refreshed dependencies
