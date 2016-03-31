@@ -1,3 +1,10 @@
+ubuntu-meta (1.353) xenial; urgency=medium
+
+  * Refreshed dependencies
+  * Added libpam-systemd to server (LP: #1561658)
+
+ -- Martin Pitt <martin.pitt@ubuntu.com>  Thu, 31 Mar 2016 15:27:53 +0200
+
 ubuntu-meta (1.352) xenial; urgency=medium
 
   * Refreshed dependencies
