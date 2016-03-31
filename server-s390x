@@ -12,6 +12,7 @@ ethtool
 fonts-ubuntu-font-family-console
 git
 ifenslave
+libpam-systemd
 lvm2
 lxd
 mdadm
