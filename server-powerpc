@@ -13,7 +13,6 @@ fonts-ubuntu-font-family-console
 git
 grub-legacy-ec2
 ifenslave
-libpam-systemd
 lvm2
 lxd
 mdadm
