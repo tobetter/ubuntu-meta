@@ -1,3 +1,11 @@
+ubuntu-meta (1.355) xenial; urgency=medium
+
+  * Refreshed dependencies
+  * Added libpam-systemd to standard
+  * Removed libpam-systemd from desktop, server
+
+ -- Adam Conrad <adconrad@ubuntu.com>  Sun, 03 Apr 2016 02:12:13 -0600
+
 ubuntu-meta (1.354) xenial; urgency=medium
 
   * Refreshed dependencies
