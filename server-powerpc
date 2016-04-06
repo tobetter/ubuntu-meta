@@ -24,6 +24,7 @@ software-properties-common
 sosreport
 tmux
 ubuntu-cloudimage-keyring
+ubuntu-snappy-cli
 update-notifier-common
 vim
 vlan
