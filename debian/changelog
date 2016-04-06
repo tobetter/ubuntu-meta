@@ -1,3 +1,11 @@
+ubuntu-meta (1.356) xenial; urgency=medium
+
+  * Refreshed dependencies
+  * Added ubuntu-snappy-cli to desktop-recommends, server
+  * Added unity-accessibility-profiles to desktop-recommends (LP: #1546317)
+
+ -- Luke Yelavich <themuso@ubuntu.com>  Thu, 07 Apr 2016 06:27:59 +1000
+
 ubuntu-meta (1.355) xenial; urgency=medium
 
   * Refreshed dependencies
