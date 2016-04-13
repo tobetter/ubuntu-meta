@@ -27,9 +27,7 @@ procps
 python3
 resolvconf
 rsyslog
-s390-tools
 sudo
-sysconfig-hardware
 tzdata
 ubuntu-keyring
 udev

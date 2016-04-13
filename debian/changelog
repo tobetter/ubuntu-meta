@@ -1,3 +1,12 @@
+ubuntu-meta (1.358) xenial; urgency=medium
+
+  * Refreshed dependencies
+  * Removed powerpc-ibm-utils from minimal [powerpc ppc64el]
+  * Removed s390-tools from minimal [s390x]
+  * Removed sysconfig-hardware from minimal [s390x]
+
+ -- Adam Conrad <adconrad@ubuntu.com>  Wed, 13 Apr 2016 06:46:59 -0600
+
 ubuntu-meta (1.357) xenial; urgency=medium
 
   * Refreshed dependencies
