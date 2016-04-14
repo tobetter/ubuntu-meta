@@ -1,3 +1,10 @@
+ubuntu-meta (1.360) xenial; urgency=medium
+
+  * Refreshed dependencies
+  * Moved lxd to server-recommends
+
+ -- Stéphane Graber <stgraber@ubuntu.com>  Thu, 14 Apr 2016 11:26:24 -0400
+
 ubuntu-meta (1.359) xenial; urgency=medium
 
   * Refreshed dependencies
