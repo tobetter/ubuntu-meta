@@ -111,6 +111,7 @@ rhythmbox
 seahorse
 shotwell
 simple-scan
+snapd
 sni-qt
 speech-dispatcher
 system-config-printer-gnome
@@ -121,7 +122,6 @@ transmission-gtk
 ttf-ancient-fonts-symbola
 ttf-ubuntu-font-family
 ubuntu-docs
-ubuntu-snappy-cli
 unity-accessibility-profiles
 unity-webapps-common
 vino

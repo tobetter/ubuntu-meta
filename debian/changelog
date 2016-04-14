@@ -1,3 +1,11 @@
+ubuntu-meta (1.359) xenial; urgency=medium
+
+  * Refreshed dependencies
+  * Added snapd to desktop-recommends, server-recommends
+  * Removed ubuntu-snappy-cli from desktop-recommends, server-recommends
+
+ -- Adam Conrad <adconrad@ubuntu.com>  Wed, 13 Apr 2016 22:58:21 -0600
+
 ubuntu-meta (1.358) xenial; urgency=medium
 
   * Refreshed dependencies
