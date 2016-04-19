@@ -1,3 +1,13 @@
+ubuntu-meta (1.361) xenial; urgency=medium
+
+  * Refreshed dependencies
+  * Added fwupdate-signed to desktop-recommends [amd64 arm64 armhf i386]
+  * Added ubuntu-software to desktop-recommends
+  * Added unity to desktop [s390x]
+  * Removed gnome-software from desktop-recommends
+
+ -- Iain Lane <iain.lane@canonical.com>  Tue, 19 Apr 2016 21:15:56 +0100
+
 ubuntu-meta (1.360) xenial; urgency=medium
 
   * Refreshed dependencies
