@@ -37,6 +37,7 @@ fonts-thai-tlwg
 fonts-tibetan-machine
 fwupd
 fwupdate
+fwupdate-signed
 gedit
 gnome-accessibility-themes
 gnome-bluetooth
@@ -51,7 +52,6 @@ gnome-orca
 gnome-power-manager
 gnome-screensaver
 gnome-screenshot
-gnome-software
 gnome-sudoku
 gnome-system-log
 gnome-system-monitor
@@ -123,6 +123,7 @@ transmission-gtk
 ttf-ancient-fonts-symbola
 ttf-ubuntu-font-family
 ubuntu-docs
+ubuntu-software
 unity-accessibility-profiles
 unity-webapps-common
 usb-creator-gtk
