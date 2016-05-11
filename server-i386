@@ -19,6 +19,7 @@ open-iscsi
 open-vm-tools
 overlayroot
 patch
+pollinate
 screen
 software-properties-common
 sosreport
