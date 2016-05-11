@@ -17,6 +17,7 @@ mdadm
 open-iscsi
 overlayroot
 patch
+pollinate
 screen
 software-properties-common
 sosreport

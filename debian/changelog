@@ -1,3 +1,11 @@
+ubuntu-meta (1.362) yakkety; urgency=medium
+
+  * update.cfg: Switch to yakkety.
+  * Refreshed dependencies
+  * Added pollinate to server
+
+ -- Colin Watson <cjwatson@ubuntu.com>  Wed, 11 May 2016 11:20:57 +0100
+
 ubuntu-meta (1.361) xenial; urgency=medium
 
   * Refreshed dependencies
