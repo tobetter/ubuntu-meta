@@ -28,6 +28,7 @@ python3
 resolvconf
 rsyslog
 sudo
+sysvinit-utils
 tzdata
 ubuntu-keyring
 udev

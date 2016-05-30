@@ -1,3 +1,10 @@
+ubuntu-meta (1.364) yakkety; urgency=medium
+
+  * Refreshed dependencies
+  * Added sysvinit-utils to minimal
+
+ -- Martin Pitt <martin.pitt@ubuntu.com>  Mon, 30 May 2016 16:40:44 +0200
+
 ubuntu-meta (1.363) yakkety; urgency=medium
 
   * Refreshed dependencies
