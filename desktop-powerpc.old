@@ -27,6 +27,7 @@ lightdm
 nautilus
 notify-osd
 openprinting-ppds
+pbbuttonsd
 printer-driver-pnm2ppa
 pulseaudio
 rfkill
@@ -37,6 +38,7 @@ ubuntu-release-upgrader-gtk
 ubuntu-session
 ubuntu-settings
 ubuntu-sounds
+unity
 unity-control-center
 unity-greeter
 unity-settings-daemon
