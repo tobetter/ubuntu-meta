@@ -1,3 +1,12 @@
+ubuntu-meta (1.365) yakkety; urgency=medium
+
+  * Refreshed dependencies
+  * Added init to minimal
+  * Moved ureadahead from minimal to standard-recommends
+  * Removed systemd-sysv from standard
+
+ -- Martin Pitt <martin.pitt@ubuntu.com>  Tue, 31 May 2016 09:33:50 +0200
+
 ubuntu-meta (1.364) yakkety; urgency=medium
 
   * Refreshed dependencies
