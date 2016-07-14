@@ -18,7 +18,6 @@ kmod
 less
 locales
 lsb-release
-makedev
 mawk
 net-tools
 netbase
@@ -28,7 +27,6 @@ powerpc-utils
 procps
 python3
 resolvconf
-rsyslog
 sudo
 sysvinit-utils
 tzdata
