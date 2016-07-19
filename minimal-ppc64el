@@ -6,7 +6,6 @@ console-setup
 debconf
 debconf-i18n
 eject
-gnupg
 ifupdown
 init
 initramfs-tools
