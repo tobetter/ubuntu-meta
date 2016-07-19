@@ -1,3 +1,10 @@
+ubuntu-meta (1.367) yakkety; urgency=medium
+
+  * Refreshed dependencies
+  * Removed gnupg from minimal
+
+ -- Martin Pitt <martin.pitt@ubuntu.com>  Tue, 19 Jul 2016 10:21:22 +0200
+
 ubuntu-meta (1.366) yakkety; urgency=medium
 
   * Refreshed dependencies
