@@ -1,3 +1,12 @@
+ubuntu-meta (1.368) yakkety; urgency=medium
+
+  * Refreshed dependencies
+  * Added nplan to standard
+  * Removed python3-aptdaemon.pkcompat from desktop-recommends
+  * Removed sysvinit-utils from minimal
+
+ -- Adam Conrad <adconrad@ubuntu.com>  Tue, 16 Aug 2016 03:10:49 -0600
+
 ubuntu-meta (1.367) yakkety; urgency=medium
 
   * Refreshed dependencies

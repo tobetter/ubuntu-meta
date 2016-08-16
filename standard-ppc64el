@@ -17,6 +17,7 @@ lsof
 ltrace
 man-db
 mime-support
+nplan
 parted
 pciutils
 popularity-contest
