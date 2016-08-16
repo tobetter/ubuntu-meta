@@ -27,7 +27,6 @@ procps
 python3
 resolvconf
 sudo
-sysvinit-utils
 tzdata
 ubuntu-keyring
 udev
