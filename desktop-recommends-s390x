@@ -86,6 +86,7 @@ network-manager-gnome
 network-manager-pptp-gnome
 onboard
 overlay-scrollbar-gtk2
+packagekit
 pcmciautils
 plymouth-theme-ubuntu-logo
 policykit-desktop-privileges

@@ -1,3 +1,10 @@
+ubuntu-meta (1.369) yakkety; urgency=medium
+
+  * Refreshed dependencies
+  * Added packagekit to desktop-recommends
+
+ -- Adam Conrad <adconrad@ubuntu.com>  Tue, 16 Aug 2016 18:38:06 -0600
+
 ubuntu-meta (1.368) yakkety; urgency=medium
 
   * Refreshed dependencies
