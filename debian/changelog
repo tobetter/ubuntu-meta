@@ -1,3 +1,11 @@
+ubuntu-meta (1.370) yakkety; urgency=medium
+
+  * Refreshed dependencies
+  * Removed pulseaudio-module-x11 from desktop-recommends
+  * Removed unity-greeter from desktop [s390x]
+
+ -- Adam Conrad <adconrad@ubuntu.com>  Fri, 26 Aug 2016 16:54:29 -0600
+
 ubuntu-meta (1.369) yakkety; urgency=medium
 
   * Refreshed dependencies
