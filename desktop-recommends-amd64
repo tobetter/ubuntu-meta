@@ -105,7 +105,6 @@ printer-driver-pxljr
 printer-driver-sag-gdi
 printer-driver-splix
 pulseaudio-module-bluetooth
-pulseaudio-module-x11
 qt-at-spi
 remmina
 rhythmbox
