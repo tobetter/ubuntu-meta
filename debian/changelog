@@ -1,3 +1,13 @@
+ubuntu-meta (1.371) yakkety; urgency=medium
+
+  * Refreshed dependencies
+  * Added unity8-desktop-session to desktop-recommends (LP: #1612357)
+  * Removed gnome-bluetooth from desktop-recommends [s390x]
+  * Removed lightdm from desktop [s390x]
+  * Removed unity-control-center from desktop [s390x]
+
+ -- Steve Langasek <steve.langasek@ubuntu.com>  Tue, 04 Oct 2016 19:37:54 +0000
+
 ubuntu-meta (1.370) yakkety; urgency=medium
 
   * Refreshed dependencies
