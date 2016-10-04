@@ -37,7 +37,6 @@ fonts-tibetan-machine
 fwupd
 gedit
 gnome-accessibility-themes
-gnome-bluetooth
 gnome-calculator
 gnome-calendar
 gnome-disk-utility
@@ -122,6 +121,7 @@ ubuntu-docs
 ubuntu-software
 unity-accessibility-profiles
 unity-webapps-common
+unity8-desktop-session
 vino
 whoopsie
 xcursor-themes

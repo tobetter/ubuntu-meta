@@ -23,7 +23,6 @@ language-selector-gnome
 libatk-adaptor
 libnotify-bin
 libsasl2-modules
-lightdm
 nautilus
 notify-osd
 openprinting-ppds
@@ -37,7 +36,6 @@ ubuntu-release-upgrader-gtk
 ubuntu-session
 ubuntu-settings
 ubuntu-sounds
-unity-control-center
 unity-settings-daemon
 unzip
 update-manager
