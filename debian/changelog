@@ -1,3 +1,10 @@
+ubuntu-meta (1.372) yakkety; urgency=medium
+
+  * Refreshed dependencies
+  * Added ppc64-diag to standard [ppc64el]
+
+ -- Steve Langasek <steve.langasek@ubuntu.com>  Fri, 07 Oct 2016 18:48:54 +0000
+
 ubuntu-meta (1.371) yakkety; urgency=medium
 
   * Refreshed dependencies
