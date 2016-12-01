@@ -1,3 +1,15 @@
+ubuntu-meta (1.375) zesty; urgency=medium
+
+  * update.cfg; yakkety -> zesty
+  * Refreshed dependencies
+  * Added firefox to desktop-recommends [ppc64el]
+  * Added ppc64-diag to standard [powerpc]
+  * Added system-config-printer to desktop-recommends
+  * Removed deja-dup from desktop-recommends [s390x]
+  * Removed system-config-printer-gnome from desktop-recommends
+
+ -- Iain Lane <iain.lane@canonical.com>  Thu, 01 Dec 2016 12:32:50 +0000
+
 ubuntu-meta (1.373) yakkety; urgency=medium
 
   * Refreshed dependencies
