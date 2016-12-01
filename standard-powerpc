@@ -22,6 +22,7 @@ nplan
 parted
 pciutils
 popularity-contest
+ppc64-diag
 psmisc
 rsync
 strace
