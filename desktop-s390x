@@ -36,6 +36,7 @@ ubuntu-release-upgrader-gtk
 ubuntu-session
 ubuntu-settings
 ubuntu-sounds
+unity-greeter
 unity-settings-daemon
 unzip
 update-manager

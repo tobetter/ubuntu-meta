@@ -14,6 +14,7 @@ git
 ifenslave
 lvm2
 mdadm
+net-tools
 open-iscsi
 overlayroot
 patch
