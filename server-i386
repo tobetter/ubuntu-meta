@@ -15,6 +15,7 @@ grub-legacy-ec2
 ifenslave
 lvm2
 mdadm
+net-tools
 open-iscsi
 open-vm-tools
 overlayroot
