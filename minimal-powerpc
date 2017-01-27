@@ -18,7 +18,6 @@ less
 locales
 lsb-release
 mawk
-net-tools
 netbase
 netcat-openbsd
 passwd

@@ -1,3 +1,12 @@
+ubuntu-meta (1.376) zesty; urgency=medium
+
+  * Refreshed dependencies
+  * Added net-tools to server
+  * Added unity-greeter to desktop [s390x]
+  * Removed net-tools from minimal
+
+ -- Steve Langasek <steve.langasek@ubuntu.com>  Fri, 27 Jan 2017 22:46:36 +0000
+
 ubuntu-meta (1.375) zesty; urgency=medium
 
   * update.cfg; yakkety -> zesty
