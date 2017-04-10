@@ -1,3 +1,12 @@
+ubuntu-meta (1.379) zesty; urgency=medium
+
+  * Refreshed dependencies
+  * Added deja-dup to desktop-recommends [s390x]
+  * Removed unity-greeter from desktop [s390x]
+  * Removed unity8-desktop-session from desktop-recommends [s390x]
+
+ -- Adam Conrad <adconrad@ubuntu.com>  Mon, 10 Apr 2017 07:42:06 -0600
+
 ubuntu-meta (1.378) zesty; urgency=medium
 
   * Refreshed dependencies and remove powerpc.
