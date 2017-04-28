@@ -30,6 +30,7 @@ resolvconf
 rsyslog
 sudo
 tzdata
+ubuntu-advantage-tools
 ubuntu-keyring
 udev
 upstart
