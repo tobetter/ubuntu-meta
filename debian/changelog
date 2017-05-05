@@ -1,3 +1,10 @@
+ubuntu-meta (1.381) artful; urgency=medium
+
+  * Refreshed dependencies
+  * Removed unity-webapps-common from desktop-recommends
+
+ -- Dimitri John Ledkov <xnox@ubuntu.com>  Fri, 05 May 2017 19:31:30 +0100
+
 ubuntu-meta (1.380) artful; urgency=medium
 
   * update.cfg; zesty -> artful
