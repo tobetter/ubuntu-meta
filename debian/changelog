@@ -1,3 +1,10 @@
+ubuntu-meta (1.382) artful; urgency=medium
+
+  * Refreshed dependencies
+  * Added gnome-software-plugin-snap to desktop-recommends
+
+ -- Robert Ancell <robert.ancell@canonical.com>  Thu, 18 May 2017 16:03:42 +1200
+
 ubuntu-meta (1.381) artful; urgency=medium
 
   * Refreshed dependencies
