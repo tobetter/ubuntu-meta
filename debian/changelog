@@ -1,3 +1,12 @@
+ubuntu-meta (1.384) artful; urgency=medium
+
+  * Refreshed dependencies
+  * Added gnome-control-center to desktop
+  * Added gnome-settings-daemon to desktop
+  * Added gnome-shell to desktop
+
+ -- Didier Roche <didrocks@ubuntu.com>  Thu, 01 Jun 2017 18:41:16 +0200
+
 ubuntu-meta (1.383) artful; urgency=medium
 
   * Remove Unity & associated component to remplace it with Gnome Shell
