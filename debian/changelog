@@ -1,3 +1,24 @@
+ubuntu-meta (1.383) artful; urgency=medium
+
+  * Remove Unity & associated component to remplace it with Gnome Shell
+    (LP: #1694991).
+  * Refreshed dependencies
+  * Removed notify-osd from desktop
+  * Removed overlay-scrollbar-gtk2 from desktop-recommends
+  * Removed unity from desktop [amd64 arm64 armhf i386 ppc64el]
+  * Removed unity-control-center from desktop [amd64 arm64 armhf i386
+    ppc64el]
+  * Removed unity-settings-daemon from desktop
+  Bye bye Unity, it has been a long and fun ride: from the Unity0 in
+  vala+mutter for Ubuntu Netbook Edition, to Unity1 becoming Unity7
+  with the compiz C++ rewrite and Nux additions. We had our load of fun,
+  joy, sadness, crazyness… without forgetting crashes as well!
+  Remember those shaders, those overlay scrollbars, those window stack issues,
+  those 5am releases? And synchronizing you with the Unity2D team!
+  Thanks to everyone involved, all those still here, those who left.
+
+ -- Didier Roche <didrocks@ubuntu.com>  Thu, 01 Jun 2017 15:43:44 +0200
+
 ubuntu-meta (1.382) artful; urgency=medium
 
   * Refreshed dependencies
