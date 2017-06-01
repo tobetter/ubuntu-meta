@@ -12,8 +12,11 @@ fonts-freefont-ttf
 foomatic-db-compressed-ppds
 genisoimage
 ghostscript-x
+gnome-control-center
 gnome-menus
 gnome-session-canberra
+gnome-settings-daemon
+gnome-shell
 gstreamer1.0-alsa
 gstreamer1.0-plugins-base-apps
 gstreamer1.0-pulseaudio
