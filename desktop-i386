@@ -25,7 +25,6 @@ libnotify-bin
 libsasl2-modules
 lightdm
 nautilus
-notify-osd
 openprinting-ppds
 printer-driver-pnm2ppa
 pulseaudio
@@ -37,10 +36,7 @@ ubuntu-release-upgrader-gtk
 ubuntu-session
 ubuntu-settings
 ubuntu-sounds
-unity
-unity-control-center
 unity-greeter
-unity-settings-daemon
 unzip
 update-manager
 update-notifier
