@@ -1,3 +1,13 @@
+ubuntu-meta (1.385) artful; urgency=medium
+
+  * Refreshed dependencies
+  * Added unity to desktop [amd64 arm64 armhf i386 ppc64el]
+  * Added unity-control-center to desktop [amd64 arm64 armhf i386
+    ppc64el]
+  * Added unity-settings-daemon to desktop
+
+ -- Ken VanDine <ken.vandine@canonical.com>  Fri, 02 Jun 2017 15:22:45 -0400
+
 ubuntu-meta (1.384) artful; urgency=medium
 
   * Refreshed dependencies
