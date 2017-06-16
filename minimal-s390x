@@ -6,7 +6,6 @@ console-setup
 debconf
 debconf-i18n
 eject
-ifupdown
 init
 initramfs-tools
 iproute2
@@ -20,6 +19,7 @@ lsb-release
 mawk
 netbase
 netcat-openbsd
+nplan
 passwd
 procps
 python3
