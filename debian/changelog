@@ -1,3 +1,10 @@
+ubuntu-meta (1.389) artful; urgency=medium
+
+  * Refreshed dependencies
+  * Added ubuntu-session to desktop
+
+ -- Didier Roche <didrocks@ubuntu.com>  Wed, 21 Jun 2017 16:36:13 +0200
+
 ubuntu-meta (1.388) artful; urgency=medium
 
   * Refreshed dependencies
