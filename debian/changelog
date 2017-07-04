@@ -1,3 +1,10 @@
+ubuntu-meta (1.391) artful; urgency=medium
+
+  * Refreshed dependencies
+  * Removed checkbox-converged from desktop
+
+ -- Didier Roche <didrocks@ubuntu.com>  Tue, 04 Jul 2017 11:38:01 +0200
+
 ubuntu-meta (1.390) artful; urgency=medium
 
   * Refreshed dependencies
