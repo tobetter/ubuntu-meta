@@ -1,3 +1,16 @@
+ubuntu-meta (1.390) artful; urgency=medium
+
+  * Refreshed dependencies
+  * Removed a11y-profile-manager-indicator from desktop-recommends
+  * Removed activity-log-manager from desktop-recommends
+  * Removed kerneloops-daemon from desktop-recommends
+  * Removed sni-qt from desktop-recommends
+  * Removed unity-accessibility-profiles from desktop-recommends
+  * Removed zeitgeist-core from desktop-recommends
+  * Removed zeitgeist-datahub from desktop-recommends
+
+ -- Didier Roche <didrocks@ubuntu.com>  Tue, 04 Jul 2017 08:38:01 +0200
+
 ubuntu-meta (1.389) artful; urgency=medium
 
   * Refreshed dependencies

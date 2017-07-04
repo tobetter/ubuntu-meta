@@ -1,5 +1,3 @@
-a11y-profile-manager-indicator
-activity-log-manager
 aisleriot
 app-install-data-partner
 apport-gtk
@@ -65,7 +63,6 @@ ibus-gtk
 ibus-gtk3
 ibus-table
 im-config
-kerneloops-daemon
 laptop-detect
 libgail-common
 libnss-mdns
@@ -111,7 +108,6 @@ seahorse
 shotwell
 simple-scan
 snapd
-sni-qt
 speech-dispatcher
 system-config-printer
 thunderbird
@@ -123,12 +119,9 @@ ttf-ubuntu-font-family
 ubuntu-docs
 ubuntu-software
 ubuntu-web-launchers
-unity-accessibility-profiles
 vino
 whoopsie
 xcursor-themes
 xdg-utils
 xterm
 xul-ext-ubufox
-zeitgeist-core
-zeitgeist-datahub
