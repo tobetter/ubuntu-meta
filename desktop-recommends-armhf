@@ -63,6 +63,7 @@ ibus-gtk
 ibus-gtk3
 ibus-table
 im-config
+kerneloops
 laptop-detect
 libgail-common
 libnss-mdns

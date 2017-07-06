@@ -9,6 +9,7 @@ doc-base
 fonts-dejavu-core
 fonts-freefont-ttf
 foomatic-db-compressed-ppds
+gdm3
 genisoimage
 ghostscript-x
 gnome-control-center
@@ -25,7 +26,6 @@ language-selector-gnome
 libatk-adaptor
 libnotify-bin
 libsasl2-modules
-lightdm
 nautilus
 openprinting-ppds
 printer-driver-pnm2ppa
@@ -38,7 +38,6 @@ ubuntu-release-upgrader-gtk
 ubuntu-session
 ubuntu-settings
 ubuntu-sounds
-unity-greeter
 unzip
 update-manager
 update-notifier
