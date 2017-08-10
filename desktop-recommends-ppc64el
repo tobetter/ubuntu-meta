@@ -53,6 +53,7 @@ gnome-system-log
 gnome-system-monitor
 gnome-terminal
 gnupg-agent
+gsettings-ubuntu-schemas
 gucharmap
 gvfs-fuse
 hplip
@@ -68,7 +69,6 @@ libnss-mdns
 libpam-gnome-keyring
 libproxy1-plugin-gsettings
 libproxy1-plugin-networkmanager
-libqt4-sql-sqlite
 libreoffice-calc
 libreoffice-gnome
 libreoffice-impress
@@ -100,7 +100,6 @@ printer-driver-pxljr
 printer-driver-sag-gdi
 printer-driver-splix
 pulseaudio-module-bluetooth
-qt-at-spi
 remmina
 rhythmbox
 seahorse
