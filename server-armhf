@@ -12,7 +12,6 @@ ethtool
 fonts-ubuntu-font-family-console
 git
 grub-legacy-ec2
-ifenslave
 lvm2
 mdadm
 net-tools
