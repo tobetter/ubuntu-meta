@@ -1,3 +1,14 @@
+ubuntu-meta (1.394) artful; urgency=medium
+
+  * Refreshed dependencies
+  * Removed ifenslave from server
+  * Removed libqt4-sql-sqlite from desktop-recommends
+  * Removed qt-at-spi from desktop-recommends
+  * Refreshed dependencies
+  * Added gsettings-ubuntu-schemas to desktop-recommends
+
+ -- Didier Roche <didrocks@ubuntu.com>  Thu, 10 Aug 2017 15:24:12 +0200
+
 ubuntu-meta (1.393) artful; urgency=medium
 
   * Refreshed dependencies
