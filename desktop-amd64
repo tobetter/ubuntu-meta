@@ -17,6 +17,7 @@ gnome-menus
 gnome-session-canberra
 gnome-settings-daemon
 gnome-shell
+gnome-shell-extension-ubuntu-dock
 gstreamer1.0-alsa
 gstreamer1.0-plugins-base-apps
 gstreamer1.0-pulseaudio
