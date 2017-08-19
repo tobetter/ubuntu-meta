@@ -41,6 +41,7 @@ gnome-calendar
 gnome-disk-utility
 gnome-font-viewer
 gnome-keyring
+gnome-logs
 gnome-mahjongg
 gnome-mines
 gnome-orca
@@ -49,7 +50,6 @@ gnome-screensaver
 gnome-screenshot
 gnome-software-plugin-snap
 gnome-sudoku
-gnome-system-log
 gnome-system-monitor
 gnome-terminal
 gnupg-agent

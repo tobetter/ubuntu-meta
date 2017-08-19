@@ -1,3 +1,13 @@
+ubuntu-meta (1.396) artful; urgency=medium
+
+  * Refreshed dependencies
+  * Added gnome-logs to desktop-recommends
+  * Removed gnome-system-log from desktop-recommends
+  * Removed libnss-resolve from standard-recommends
+  * Removed resolvconf from minimal
+
+ -- Dimitri John Ledkov <xnox@ubuntu.com>  Sat, 19 Aug 2017 20:32:16 +0100
+
 ubuntu-meta (1.395) artful; urgency=medium
 
   * Refreshed dependencies
