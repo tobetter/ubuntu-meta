@@ -24,7 +24,6 @@ passwd
 powerpc-utils
 procps
 python3
-resolvconf
 sudo
 tzdata
 ubuntu-keyring
