@@ -85,9 +85,9 @@ memtest86+
 mousetweaks
 nautilus-sendto
 nautilus-share
-network-manager-gnome
+network-manager
+network-manager-config-connectivity-ubuntu
 network-manager-pptp-gnome
-onboard
 packagekit
 pcmciautils
 plymouth-theme-ubuntu-logo
