@@ -17,6 +17,7 @@ less
 locales
 lsb-release
 mawk
+mount
 netbase
 netcat-openbsd
 nplan

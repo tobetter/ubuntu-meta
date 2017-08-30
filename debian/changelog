@@ -1,3 +1,15 @@
+ubuntu-meta (1.398) artful; urgency=medium
+
+  * Refreshed dependencies
+  * Added mount to minimal
+  * Added network-manager to desktop-recommends
+  * Added network-manager-config-connectivity-ubuntu to desktop-
+    recommends (LP: #997200)
+  * Removed network-manager-gnome from desktop-recommends
+  * Removed onboard from desktop-recommends
+
+ -- Jeremy Bicha <jbicha@ubuntu.com>  Wed, 30 Aug 2017 08:28:53 -0400
+
 ubuntu-meta (1.397) artful; urgency=medium
 
   * Refreshed dependencies
