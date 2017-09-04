@@ -18,6 +18,7 @@ gnome-settings-daemon
 gnome-shell-extension-appindicator
 gnome-shell-extension-ubuntu-dock
 gstreamer1.0-alsa
+gstreamer1.0-packagekit
 gstreamer1.0-plugins-base-apps
 gstreamer1.0-pulseaudio
 gvfs-bin

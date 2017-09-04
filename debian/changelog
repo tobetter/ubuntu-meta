@@ -1,3 +1,10 @@
+ubuntu-meta (1.399) artful; urgency=medium
+
+  * Refreshed dependencies
+  * Added gstreamer1.0-packagekit to desktop (LP: #1712979)
+
+ -- Iain Lane <iain.lane@canonical.com>  Mon, 04 Sep 2017 18:46:17 +0100
+
 ubuntu-meta (1.398) artful; urgency=medium
 
   * Refreshed dependencies
