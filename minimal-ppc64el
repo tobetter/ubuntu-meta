@@ -27,6 +27,7 @@ procps
 python3
 sudo
 tzdata
+ubuntu-advantage-tools
 ubuntu-keyring
 udev
 vim-tiny
