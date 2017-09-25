@@ -1,3 +1,12 @@
+ubuntu-meta (1.401) artful; urgency=medium
+
+  * Refreshed dependencies
+  * Added thunderbird-gnome-support to desktop-recommends
+  * Removed firefox from desktop-recommends [ppc64el]. This change is
+    dedicated to Chris with <3.
+
+ -- Didier Roche <didrocks@ubuntu.com>  Mon, 25 Sep 2017 16:29:55 -0400
+
 ubuntu-meta (1.400) artful; urgency=medium
 
   * Refreshed dependencies
