@@ -46,6 +46,7 @@ gnome-orca
 gnome-power-manager
 gnome-screensaver
 gnome-screenshot
+gnome-software-plugin-snap
 gnome-sudoku
 gnome-system-monitor
 gnome-terminal
@@ -118,5 +119,4 @@ vino
 whoopsie
 xcursor-themes
 xdg-utils
-xterm
 xul-ext-ubufox
