@@ -1,3 +1,11 @@
+ubuntu-meta (1.402) artful; urgency=medium
+
+  * Refreshed dependencies
+  * Removed xdiagnose from desktop (LP: #1717946)
+  * Removed xterm from desktop-recommends (LP: #1717946)
+
+ -- Jeremy Bicha <jbicha@ubuntu.com>  Thu, 28 Sep 2017 13:09:49 -0400
+
 ubuntu-meta (1.401) artful; urgency=medium
 
   * Refreshed dependencies
