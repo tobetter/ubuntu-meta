@@ -1,3 +1,15 @@
+ubuntu-meta (1.403) artful; urgency=medium
+
+  * Refreshed dependencies
+  * Added fonts-indic to desktop-recommends (LP: #1720809)
+  * Added gnome-getting-started-docs to desktop-recommends (LP: #1721795)
+  * Removed apt-transport-https from standard-recommends (LP: #1712871)
+  * Removed fonts-guru from desktop-recommends (LP: #1720809)
+  * Removed thunderbird from desktop-recommends [s390x] (LP: #1720422)
+  * Removed thunderbird-gnome-support from desktop-recommends [s390x]
+
+ -- Jeremy Bicha <jbicha@ubuntu.com>  Sun, 08 Oct 2017 17:14:33 -0400
+
 ubuntu-meta (1.402) artful; urgency=medium
 
   * Refreshed dependencies
