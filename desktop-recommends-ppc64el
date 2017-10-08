@@ -18,7 +18,7 @@ eog
 evince
 example-content
 file-roller
-fonts-guru
+fonts-indic
 fonts-kacst-one
 fonts-khmeros-core
 fonts-lao
@@ -39,6 +39,7 @@ gnome-calculator
 gnome-calendar
 gnome-disk-utility
 gnome-font-viewer
+gnome-getting-started-docs
 gnome-keyring
 gnome-logs
 gnome-mahjongg
