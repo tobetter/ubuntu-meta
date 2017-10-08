@@ -18,7 +18,7 @@ eog
 evince
 example-content
 file-roller
-fonts-guru
+fonts-indic
 fonts-kacst-one
 fonts-khmeros-core
 fonts-lao
@@ -38,6 +38,7 @@ gnome-calculator
 gnome-calendar
 gnome-disk-utility
 gnome-font-viewer
+gnome-getting-started-docs
 gnome-keyring
 gnome-logs
 gnome-mahjongg
@@ -106,8 +107,6 @@ simple-scan
 snapd
 speech-dispatcher
 system-config-printer
-thunderbird
-thunderbird-gnome-support
 totem
 transmission-gtk
 ttf-ancient-fonts-symbola
