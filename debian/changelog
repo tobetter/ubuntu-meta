@@ -1,3 +1,10 @@
+ubuntu-meta (1.404) artful; urgency=medium
+
+  * Refreshed dependencies
+  * Added sensible-utils to minimal (LP: #1724224)
+
+ -- Adam Conrad <adconrad@ubuntu.com>  Tue, 17 Oct 2017 06:51:03 -0600
+
 ubuntu-meta (1.403) artful; urgency=medium
 
   * Refreshed dependencies
