@@ -1,3 +1,16 @@
+ubuntu-meta (1.406) bionic; urgency=medium
+
+  * Update update.cfg for bionic
+  * Use debhelper v9
+  * Refreshed dependencies
+  * Added gdm3 to desktop [s390x]
+  * Added gnome-shell to desktop [s390x]
+  * Added s390-tools to server [s390x]
+  * Added ubuntu-session to desktop [s390x]
+  * Removed grub-legacy-ec2 from server [ppc64el]
+
+ -- Dimitri John Ledkov <xnox@ubuntu.com>  Fri, 03 Nov 2017 12:02:46 +0000
+
 ubuntu-meta (1.405) bionic; urgency=medium
 
   * Refreshed dependencies
