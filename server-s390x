@@ -19,6 +19,7 @@ open-iscsi
 overlayroot
 patch
 pollinate
+s390-tools
 screen
 software-properties-common
 sosreport

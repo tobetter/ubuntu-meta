@@ -1,3 +1,10 @@
+ubuntu-meta (1.379.1) zesty; urgency=medium
+
+  * Refreshed dependencies
+  * Added s390-tools to server [s390x] LP: #1730647
+
+ -- Dimitri John Ledkov <xnox@ubuntu.com>  Tue, 07 Nov 2017 11:25:35 +0000
+
 ubuntu-meta (1.379) zesty; urgency=medium
 
   * Refreshed dependencies
