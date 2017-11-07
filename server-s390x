@@ -17,6 +17,7 @@ mdadm
 open-iscsi
 overlayroot
 patch
+s390-tools
 screen
 software-properties-common
 sosreport
