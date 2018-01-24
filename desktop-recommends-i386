@@ -27,6 +27,7 @@ fonts-lao
 fonts-liberation
 fonts-lklug-sinhala
 fonts-noto-cjk
+fonts-noto-color-emoji
 fonts-sil-abyssinica
 fonts-sil-padauk
 fonts-thai-tlwg
@@ -40,6 +41,7 @@ gnome-accessibility-themes
 gnome-bluetooth
 gnome-calculator
 gnome-calendar
+gnome-characters
 gnome-disk-utility
 gnome-font-viewer
 gnome-getting-started-docs
@@ -47,7 +49,6 @@ gnome-keyring
 gnome-logs
 gnome-mahjongg
 gnome-mines
-gnome-orca
 gnome-power-manager
 gnome-screensaver
 gnome-screenshot
@@ -55,9 +56,9 @@ gnome-software-plugin-snap
 gnome-sudoku
 gnome-system-monitor
 gnome-terminal
+gnome-todo
 gnupg-agent
 gsettings-ubuntu-schemas
-gucharmap
 gvfs-fuse
 hplip
 ibus
@@ -67,7 +68,6 @@ ibus-table
 im-config
 kerneloops
 laptop-detect
-libgail-common
 libnss-mdns
 libpam-gnome-keyring
 libproxy1-plugin-gsettings
@@ -88,6 +88,7 @@ nautilus-share
 network-manager
 network-manager-config-connectivity-ubuntu
 network-manager-pptp-gnome
+orca
 packagekit
 pcmciautils
 plymouth-theme-ubuntu-logo
