@@ -1,3 +1,18 @@
+ubuntu-meta (1.408) bionic; urgency=medium
+
+  * Refreshed dependencies
+  * Added firefox to desktop-recommends [ppc64el]
+  * Added fonts-noto-color-emoji to desktop-recommends (LP: #1734885)
+  * Added gnome-characters to desktop-recommends (LP: #1713176)
+  * Added gnome-todo to desktop-recommends (LP: #1713171)
+  * Added orca to desktop-recommends
+  * Removed gnome-orca from desktop-recommends
+  * Removed gucharmap from desktop-recommends
+  * Removed libgail-common from desktop-recommends
+  * Moved grub-legacy-ec2 to server-recommends [amd64 arm64 armhf i386]
+
+ -- Jeremy Bicha <jbicha@ubuntu.com>  Wed, 24 Jan 2018 10:44:40 -0500
+
 ubuntu-meta (1.407) bionic; urgency=medium
 
   * Refreshed dependencies
