@@ -6,7 +6,6 @@ btrfs-tools
 byobu
 cloud-guest-utils
 cloud-initramfs-copymods
-cloud-initramfs-dyn-netconf
 curl
 ethtool
 fonts-ubuntu-font-family-console
