@@ -1,3 +1,11 @@
+ubuntu-meta (1.409) bionic; urgency=medium
+
+  * Refreshed dependencies
+  * Removed cloud-initramfs-dyn-netconf from server
+  * Removed gnome-screensaver from desktop-recommends
+
+ -- Scott Moser <smoser@ubuntu.com>  Tue, 06 Feb 2018 10:55:56 -0500
+
 ubuntu-meta (1.408) bionic; urgency=medium
 
   * Refreshed dependencies
