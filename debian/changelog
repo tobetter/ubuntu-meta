@@ -1,3 +1,10 @@
+ubuntu-meta (1.410) bionic; urgency=medium
+
+  * Refreshed dependencies
+  * Removed ubuntu-cloudimage-keyring from server
+
+ -- Mathieu Trudel-Lapierre <cyphermox@ubuntu.com>  Tue, 06 Feb 2018 16:22:01 -0500
+
 ubuntu-meta (1.409) bionic; urgency=medium
 
   * Refreshed dependencies
