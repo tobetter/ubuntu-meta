@@ -34,7 +34,6 @@ fwupd
 gedit
 gir1.2-gmenu-3.0
 gnome-accessibility-themes
-gnome-calculator
 gnome-calendar
 gnome-characters
 gnome-disk-utility
@@ -92,6 +91,7 @@ pppoeconf
 printer-driver-brlaser
 printer-driver-c2esp
 printer-driver-foo2zjs
+printer-driver-m2300w
 printer-driver-min12xxw
 printer-driver-ptouch
 printer-driver-pxljr
@@ -108,7 +108,6 @@ speech-dispatcher
 system-config-printer
 totem
 transmission-gtk
-ttf-ancient-fonts-symbola
 ttf-ubuntu-font-family
 ubuntu-docs
 ubuntu-software
