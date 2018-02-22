@@ -1,3 +1,13 @@
+ubuntu-meta (1.411) bionic; urgency=medium
+
+  * Refreshed dependencies
+  * Added cloud-initramfs-dyn-netconf to server (LP: #1750851)
+  * Added printer-driver-m2300w to desktop-recommends
+  * Removed gnome-calculator from desktop-recommends
+  * Removed ttf-ancient-fonts-symbola from desktop-recommends
+
+ -- Scott Moser <smoser@ubuntu.com>  Thu, 22 Feb 2018 09:53:43 -0500
+
 ubuntu-meta (1.410) bionic; urgency=medium
 
   * Refreshed dependencies
