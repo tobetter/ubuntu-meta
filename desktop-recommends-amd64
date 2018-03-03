@@ -15,6 +15,7 @@ cups-bsd
 cups-client
 cups-filters
 deja-dup
+dirmngr
 eog
 evince
 example-content
@@ -32,6 +33,7 @@ fonts-sil-abyssinica
 fonts-sil-padauk
 fonts-thai-tlwg
 fonts-tibetan-machine
+fonts-ubuntu
 fwupd
 fwupdate
 fwupdate-signed
@@ -40,22 +42,19 @@ gir1.2-gmenu-3.0
 gnome-accessibility-themes
 gnome-bluetooth
 gnome-calendar
-gnome-characters
 gnome-disk-utility
 gnome-font-viewer
 gnome-getting-started-docs
 gnome-keyring
-gnome-logs
 gnome-mahjongg
 gnome-mines
 gnome-power-manager
 gnome-screenshot
 gnome-software-plugin-snap
 gnome-sudoku
-gnome-system-monitor
 gnome-terminal
 gnome-todo
-gnupg-agent
+gpg-agent
 gsettings-ubuntu-schemas
 gvfs-fuse
 hplip
@@ -116,7 +115,6 @@ thunderbird
 thunderbird-gnome-support
 totem
 transmission-gtk
-ttf-ubuntu-font-family
 ubuntu-docs
 ubuntu-software
 ubuntu-web-launchers
