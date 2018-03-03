@@ -1,3 +1,21 @@
+ubuntu-meta (1.412) bionic; urgency=medium
+
+  * Refreshed dependencies
+  * Added dirmngr to desktop-recommends, server
+  * Added fonts-ubuntu to desktop-recommends
+  * Added fonts-ubuntu-console to server
+  * Added gnupg to server
+  * Added gpg-agent to desktop-recommends
+  * Added spice-vdagent to desktop
+  * Removed fonts-ubuntu-font-family-console from server
+  * Removed gnome-characters from desktop-recommends
+  * Removed gnome-logs from desktop-recommends
+  * Removed gnome-system-monitor from desktop-recommends
+  * Removed gnupg-agent from desktop-recommends
+  * Removed ttf-ubuntu-font-family from desktop-recommends
+
+ -- Steve Langasek <steve.langasek@ubuntu.com>  Sat, 03 Mar 2018 16:16:49 +0000
+
 ubuntu-meta (1.411) bionic; urgency=medium
 
   * Refreshed dependencies
