@@ -8,9 +8,11 @@ cloud-guest-utils
 cloud-initramfs-copymods
 cloud-initramfs-dyn-netconf
 curl
+dirmngr
 ethtool
-fonts-ubuntu-font-family-console
+fonts-ubuntu-console
 git
+gnupg
 lvm2
 mdadm
 net-tools
