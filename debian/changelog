@@ -1,3 +1,12 @@
+ubuntu-meta (1.413) xenial; urgency=medium
+
+  * Refreshed dependencies
+  * Added gnome-bluetooth to desktop-recommends [s390x]
+  * Added htop to server
+  * Removed doc-base from desktop
+
+ -- Christian Ehrhardt <christian.ehrhardt@canonical.com>  Tue, 13 Mar 2018 11:12:35 +0100
+
 ubuntu-meta (1.412) bionic; urgency=medium
 
   * Refreshed dependencies
