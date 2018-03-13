@@ -1,4 +1,4 @@
-ubuntu-meta (1.413) xenial; urgency=medium
+ubuntu-meta (1.413) bionic; urgency=medium
 
   * Refreshed dependencies
   * Added gnome-bluetooth to desktop-recommends [s390x]
