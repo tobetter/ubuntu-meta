@@ -13,6 +13,7 @@ ethtool
 fonts-ubuntu-console
 git
 gnupg
+htop
 lvm2
 mdadm
 net-tools
