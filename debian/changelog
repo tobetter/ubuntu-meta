@@ -1,3 +1,10 @@
+ubuntu-meta (1.414) bionic; urgency=medium
+
+  * Refreshed dependencies
+  * Added landscape-common to server
+
+ -- Christian Ehrhardt <christian.ehrhardt@canonical.com>  Tue, 20 Mar 2018 15:24:08 +0100
+
 ubuntu-meta (1.413) bionic; urgency=medium
 
   * Refreshed dependencies
