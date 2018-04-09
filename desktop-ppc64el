@@ -28,6 +28,7 @@ language-selector-gnome
 libatk-adaptor
 libnotify-bin
 libsasl2-modules
+libu2f-udev
 nautilus
 openprinting-ppds
 printer-driver-pnm2ppa

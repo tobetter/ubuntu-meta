@@ -1,3 +1,11 @@
+ubuntu-meta (1.415) bionic; urgency=medium
+
+  * Refreshed dependencies
+  * Added libu2f-udev to desktop LP: #1752202
+  * Removed vlan from server
+
+ -- Dimitri John Ledkov <xnox@ubuntu.com>  Mon, 09 Apr 2018 15:54:40 +0100
+
 ubuntu-meta (1.414) bionic; urgency=medium
 
   * Refreshed dependencies
