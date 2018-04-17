@@ -1,3 +1,10 @@
+ubuntu-meta (1.416) bionic; urgency=medium
+
+  * Refreshed dependencies
+  * Moved landscape-common to server-recommends (LP: #1763182)
+
+ -- Christian Ehrhardt <christian.ehrhardt@canonical.com>  Tue, 17 Apr 2018 07:24:50 +0000
+
 ubuntu-meta (1.415) bionic; urgency=medium
 
   * Refreshed dependencies
