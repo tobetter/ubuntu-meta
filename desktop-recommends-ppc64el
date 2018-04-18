@@ -42,6 +42,7 @@ gnome-calendar
 gnome-disk-utility
 gnome-font-viewer
 gnome-getting-started-docs
+gnome-initial-setup
 gnome-keyring
 gnome-mahjongg
 gnome-mines
@@ -112,6 +113,7 @@ thunderbird-gnome-support
 totem
 transmission-gtk
 ubuntu-docs
+ubuntu-report
 ubuntu-software
 ubuntu-web-launchers
 vino
