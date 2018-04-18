@@ -1,3 +1,11 @@
+ubuntu-meta (1.417) bionic; urgency=medium
+
+  * Refreshed dependencies
+  * Added gnome-initial-setup and ubuntu-report to desktop-recommends
+    (LP: #1755456)
+
+ -- Didier Roche <didrocks@ubuntu.com>  Wed, 18 Apr 2018 15:16:07 +0200
+
 ubuntu-meta (1.416) bionic; urgency=medium
 
   * Refreshed dependencies
