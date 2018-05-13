@@ -2,8 +2,8 @@ Source: ubuntu-meta
 Section: metapackages
 Priority: optional
 Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
-Standards-Version: 3.9.2
-Build-Depends: debhelper (>= 9), germinate (>= 1.18)
+Standards-Version: 4.1.4
+Build-Depends: debhelper (>= 11), germinate (>= 1.18)
 
 Package: ubuntu-minimal
 Architecture: any
