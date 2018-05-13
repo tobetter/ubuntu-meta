@@ -20,7 +20,7 @@ mawk
 mount
 netbase
 netcat-openbsd
-nplan
+netplan.io
 passwd
 powerpc-utils
 procps
