@@ -1,3 +1,13 @@
+ubuntu-meta (1.419) cosmic; urgency=medium
+
+  * Refreshed dependencies
+  * Added btrfs-progs to server
+  * Added e2fsprogs to minimal (No longer Essential: yes)
+  * Added firefox to desktop-recommends [s390x]
+  * Removed btrfs-tools from server
+
+ -- Dimitri John Ledkov <xnox@ubuntu.com>  Mon, 21 May 2018 09:53:54 +0100
+
 ubuntu-meta (1.418) cosmic; urgency=medium
 
   * Update update.cfg for cosmic

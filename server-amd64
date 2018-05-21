@@ -2,7 +2,7 @@ acpid
 apport
 at
 bcache-tools
-btrfs-tools
+btrfs-progs
 byobu
 cloud-guest-utils
 cloud-initramfs-copymods
