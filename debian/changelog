@@ -1,3 +1,10 @@
+ubuntu-meta (1.420) cosmic; urgency=medium
+
+  * Adjust update script to use --vcs, not --bzr.
+  * update.cfg: use git branches instead of bzr branches.
+
+ -- Steve Langasek <steve.langasek@ubuntu.com>  Fri, 25 May 2018 23:57:43 -0700
+
 ubuntu-meta (1.419) cosmic; urgency=medium
 
   * Refreshed dependencies
