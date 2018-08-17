@@ -117,6 +117,7 @@ transmission-gtk
 ubuntu-docs
 ubuntu-report
 ubuntu-software
+ubuntu-wallpapers
 ubuntu-web-launchers
 usb-creator-gtk
 vino
@@ -124,3 +125,7 @@ whoopsie
 xcursor-themes
 xdg-utils
 xul-ext-ubufox
+yaru-theme-gnome-shell
+yaru-theme-gtk
+yaru-theme-icon
+yaru-theme-sound
