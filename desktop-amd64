@@ -36,12 +36,10 @@ pulseaudio
 rfkill
 software-properties-gtk
 spice-vdagent
-ubuntu-artwork
 ubuntu-drivers-common
 ubuntu-release-upgrader-gtk
 ubuntu-session
 ubuntu-settings
-ubuntu-sounds
 unzip
 update-manager
 update-notifier
