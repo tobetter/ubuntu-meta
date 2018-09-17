@@ -81,6 +81,7 @@ nautilus-sendto
 nautilus-share
 network-manager
 network-manager-config-connectivity-ubuntu
+network-manager-openvpn-gnome
 network-manager-pptp-gnome
 orca
 packagekit
