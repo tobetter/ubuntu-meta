@@ -35,6 +35,7 @@ fonts-thai-tlwg
 fonts-tibetan-machine
 fonts-ubuntu
 fwupd
+fwupd-signed
 gedit
 gir1.2-gmenu-3.0
 gnome-accessibility-themes
@@ -83,6 +84,7 @@ nautilus-sendto
 nautilus-share
 network-manager
 network-manager-config-connectivity-ubuntu
+network-manager-openvpn-gnome
 network-manager-pptp-gnome
 orca
 packagekit
