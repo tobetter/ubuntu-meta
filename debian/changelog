@@ -1,3 +1,13 @@
+ubuntu-meta (1.425) cosmic; urgency=medium
+
+  * Refreshed dependencies
+  * Added xdg-desktop-portal-gtk to desktop-recommends (LP: #1795959)
+  * Removed gdm3 from desktop [s390x]
+  * Removed gnome-shell from desktop [s390x]
+  * Removed ubuntu-session from desktop [s390x]
+
+ -- Ken VanDine <ken.vandine@canonical.com>  Thu, 04 Oct 2018 13:08:21 -0400
+
 ubuntu-meta (1.424) cosmic; urgency=medium
 
   * Refreshed dependencies
