@@ -8,14 +8,12 @@ dmz-cursor-theme
 fonts-dejavu-core
 fonts-freefont-ttf
 foomatic-db-compressed-ppds
-gdm3
 genisoimage
 ghostscript-x
 gnome-control-center
 gnome-menus
 gnome-session-canberra
 gnome-settings-daemon
-gnome-shell
 gnome-shell-extension-appindicator
 gnome-shell-extension-ubuntu-dock
 gstreamer1.0-alsa
@@ -38,7 +36,6 @@ software-properties-gtk
 spice-vdagent
 ubuntu-drivers-common
 ubuntu-release-upgrader-gtk
-ubuntu-session
 ubuntu-settings
 unzip
 update-manager
