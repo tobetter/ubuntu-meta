@@ -1,3 +1,87 @@
+ubuntu-meta (1.426) disco; urgency=medium
+
+  * update.cfg:
+    - Switch to disco
+    - Add missing seed_dist for http seed download
+    - Add desktop-minimal
+  * debian/control:
+    - Add new ubuntu-desktop-minimal metapackage, for minimal
+      desktop installation
+  * Hack manually dep to add ubuntu-desktop-minimal dep on ubuntu-desktop
+    (Not existing yet prior to this upload)
+  * ubuntu-desktop-minimal contains removed deps from ubuntu-desktop.
+  * Refreshed dependencies
+  * Added ubuntu-session to desktop [s390x]
+  * Removed acpi-support from desktop-recommends [amd64 i386]
+  * Removed acpid from server
+  * Removed alsa-base from desktop
+  * Removed alsa-utils from desktop
+  * Removed anacron from desktop
+  * Removed avahi-daemon from desktop-recommends
+  * Removed bc from desktop
+  * Removed bluez from desktop-recommends
+  * Removed bluez-cups from desktop-recommends
+  * Removed ca-certificates from desktop
+  * Removed cups from desktop-recommends
+  * Removed cups-bsd from desktop-recommends
+  * Removed cups-client from desktop-recommends
+  * Removed cups-filters from desktop-recommends
+  * Removed fonts-dejavu-core from desktop
+  * Removed fonts-freefont-ttf from desktop
+  * Removed fonts-indic from desktop-recommends
+  * Removed fonts-kacst-one from desktop-recommends
+  * Removed fonts-khmeros-core from desktop-recommends
+  * Removed fonts-lao from desktop-recommends
+  * Removed fonts-liberation from desktop-recommends
+  * Removed fonts-lklug-sinhala from desktop-recommends
+  * Removed fonts-noto-cjk from desktop-recommends
+  * Removed fonts-sil-abyssinica from desktop-recommends
+  * Removed fonts-sil-padauk from desktop-recommends
+  * Removed fonts-thai-tlwg from desktop-recommends
+  * Removed fonts-tibetan-machine from desktop-recommends
+  * Removed fonts-ubuntu from desktop-recommends
+  * Removed foomatic-db-compressed-ppds from desktop
+  * Removed fwupd from desktop-recommends
+  * Removed fwupd-signed from desktop-recommends [amd64 arm64 armhf
+    i386]
+  * Removed genisoimage from desktop
+  * Removed ghostscript-x from desktop
+  * Removed gnome-initial-setup from desktop-recommends [s390x]
+  * Removed hplip from desktop-recommends
+  * Removed inputattach from desktop
+  * Removed kerneloops from desktop-recommends
+  * Removed laptop-detect from desktop-recommends
+  * Removed libnss-mdns from desktop-recommends
+  * Removed libsasl2-modules from desktop
+  * Removed libu2f-udev from desktop
+  * Removed memtest86+ from desktop-recommends [amd64 i386]
+  * Removed openprinting-ppds from desktop
+  * Removed packagekit from desktop-recommends
+  * Removed pcmciautils from desktop-recommends
+  * Removed policykit-desktop-privileges from desktop-recommends
+  * Removed printer-driver-brlaser from desktop-recommends
+  * Removed printer-driver-c2esp from desktop-recommends
+  * Removed printer-driver-foo2zjs from desktop-recommends
+  * Removed printer-driver-m2300w from desktop-recommends
+  * Removed printer-driver-min12xxw from desktop-recommends
+  * Removed printer-driver-pnm2ppa from desktop
+  * Removed printer-driver-ptouch from desktop-recommends
+  * Removed printer-driver-pxljr from desktop-recommends
+  * Removed printer-driver-sag-gdi from desktop-recommends
+  * Removed printer-driver-splix from desktop-recommends
+  * Removed rfkill from desktop
+  * Removed snapd from desktop-recommends
+  * Removed spice-vdagent from desktop
+  * Removed ubuntu-drivers-common from desktop
+  * Removed unzip from desktop
+  * Removed wireless-tools from desktop
+  * Removed wpasupplicant from desktop
+  * Removed xkb-data from desktop
+  * Removed xorg from desktop
+  * Removed zip from desktop
+
+ -- Didier Roche <didrocks@ubuntu.com>  Tue, 13 Nov 2018 15:18:13 +0100
+
 ubuntu-meta (1.425) cosmic; urgency=medium
 
   * Refreshed dependencies
