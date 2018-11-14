@@ -1,3 +1,113 @@
+ubuntu-meta (1.428) disco; urgency=medium
+
+  * Re-drop desktop metapackages on s390x, which never should have been
+    reintroduced on this arch.  Producing a desktop metapackage on s390x
+    that does not conform to the definition of the Ubuntu Desktop on other
+    architectures due to missing dependencies is wrong.
+
+  * Refreshed dependencies
+  * Added acpi-support to desktop-recommends [amd64 i386]
+  * Added alsa-base to desktop [amd64 arm64 armhf i386 ppc64el]
+  * Added alsa-utils to desktop [amd64 arm64 armhf i386 ppc64el]
+  * Added anacron to desktop [amd64 arm64 armhf i386 ppc64el]
+  * Added avahi-daemon to desktop-recommends [amd64 arm64 armhf i386
+    ppc64el]
+  * Added bc to desktop [amd64 arm64 armhf i386 ppc64el]
+  * Added bluez to desktop-recommends [amd64 arm64 armhf i386 ppc64el]
+  * Added bluez-cups to desktop-recommends [amd64 arm64 armhf i386
+    ppc64el]
+  * Added ca-certificates to desktop [amd64 arm64 armhf i386 ppc64el]
+  * Added cups to desktop-recommends [amd64 arm64 armhf i386 ppc64el]
+  * Added cups-bsd to desktop-recommends [amd64 arm64 armhf i386
+    ppc64el]
+  * Added cups-client to desktop-recommends [amd64 arm64 armhf i386
+    ppc64el]
+  * Added cups-filters to desktop-recommends [amd64 arm64 armhf i386
+    ppc64el]
+  * Added fonts-dejavu-core to desktop [amd64 arm64 armhf i386 ppc64el]
+  * Added fonts-freefont-ttf to desktop [amd64 arm64 armhf i386 ppc64el]
+  * Added fonts-indic to desktop-recommends [amd64 arm64 armhf i386
+    ppc64el]
+  * Added fonts-kacst-one to desktop-recommends [amd64 arm64 armhf i386
+    ppc64el]
+  * Added fonts-khmeros-core to desktop-recommends [amd64 arm64 armhf
+    i386 ppc64el]
+  * Added fonts-lao to desktop-recommends [amd64 arm64 armhf i386
+    ppc64el]
+  * Added fonts-liberation to desktop-recommends [amd64 arm64 armhf i386
+    ppc64el]
+  * Added fonts-lklug-sinhala to desktop-recommends [amd64 arm64 armhf
+    i386 ppc64el]
+  * Added fonts-noto-cjk to desktop-recommends [amd64 arm64 armhf i386
+    ppc64el]
+  * Added fonts-sil-abyssinica to desktop-recommends [amd64 arm64 armhf
+    i386 ppc64el]
+  * Added fonts-sil-padauk to desktop-recommends [amd64 arm64 armhf i386
+    ppc64el]
+  * Added fonts-thai-tlwg to desktop-recommends [amd64 arm64 armhf i386
+    ppc64el]
+  * Added fonts-tibetan-machine to desktop-recommends [amd64 arm64 armhf
+    i386 ppc64el]
+  * Added fonts-ubuntu to desktop-recommends [amd64 arm64 armhf i386
+    ppc64el]
+  * Added foomatic-db-compressed-ppds to desktop [amd64 arm64 armhf i386
+    ppc64el]
+  * Added fwupd to desktop-recommends [amd64 arm64 armhf i386 ppc64el]
+  * Added fwupd-signed to desktop-recommends [amd64 arm64 armhf i386]
+  * Added genisoimage to desktop [amd64 arm64 armhf i386 ppc64el]
+  * Added ghostscript-x to desktop [amd64 arm64 armhf i386 ppc64el]
+  * Added hplip to desktop-recommends [amd64 arm64 armhf i386 ppc64el]
+  * Added inputattach to desktop [amd64 arm64 armhf i386 ppc64el]
+  * Added kerneloops to desktop-recommends [amd64 arm64 armhf i386
+    ppc64el]
+  * Added laptop-detect to desktop-recommends [amd64 arm64 armhf i386
+    ppc64el]
+  * Added libnss-mdns to desktop-recommends [amd64 arm64 armhf i386
+    ppc64el]
+  * Added libsasl2-modules to desktop [amd64 arm64 armhf i386 ppc64el]
+  * Added libu2f-udev to desktop [amd64 arm64 armhf i386 ppc64el]
+  * Added memtest86+ to desktop-recommends [amd64 i386]
+  * Added openprinting-ppds to desktop [amd64 arm64 armhf i386 ppc64el]
+  * Added packagekit to desktop-recommends [amd64 arm64 armhf i386
+    ppc64el]
+  * Added pcmciautils to desktop-recommends [amd64 arm64 armhf i386
+    ppc64el]
+  * Added policykit-desktop-privileges to desktop-recommends [amd64
+    arm64 armhf i386 ppc64el]
+  * Added printer-driver-brlaser to desktop-recommends [amd64 arm64
+    armhf i386 ppc64el]
+  * Added printer-driver-c2esp to desktop-recommends [amd64 arm64 armhf
+    i386 ppc64el]
+  * Added printer-driver-foo2zjs to desktop-recommends [amd64 arm64
+    armhf i386 ppc64el]
+  * Added printer-driver-m2300w to desktop-recommends [amd64 arm64 armhf
+    i386 ppc64el]
+  * Added printer-driver-min12xxw to desktop-recommends [amd64 arm64
+    armhf i386 ppc64el]
+  * Added printer-driver-pnm2ppa to desktop [amd64 arm64 armhf i386
+    ppc64el]
+  * Added printer-driver-ptouch to desktop-recommends [amd64 arm64 armhf
+    i386 ppc64el]
+  * Added printer-driver-pxljr to desktop-recommends [amd64 arm64 armhf
+    i386 ppc64el]
+  * Added printer-driver-sag-gdi to desktop-recommends [amd64 arm64
+    armhf i386 ppc64el]
+  * Added printer-driver-splix to desktop-recommends [amd64 arm64 armhf
+    i386 ppc64el]
+  * Added rfkill to desktop [amd64 arm64 armhf i386 ppc64el]
+  * Added snapd to desktop-recommends [amd64 arm64 armhf i386 ppc64el]
+  * Added spice-vdagent to desktop [amd64 arm64 armhf i386 ppc64el]
+  * Added ubuntu-drivers-common to desktop [amd64 arm64 armhf i386
+    ppc64el]
+  * Added unzip to desktop [amd64 arm64 armhf i386 ppc64el]
+  * Added wireless-tools to desktop [amd64 arm64 armhf i386 ppc64el]
+  * Added wpasupplicant to desktop [amd64 arm64 armhf i386 ppc64el]
+  * Added xkb-data to desktop [amd64 arm64 armhf i386 ppc64el]
+  * Added xorg to desktop [amd64 arm64 armhf i386 ppc64el]
+  * Added zip to desktop [amd64 arm64 armhf i386 ppc64el]
+
+ -- Steve Langasek <steve.langasek@ubuntu.com>  Wed, 14 Nov 2018 17:53:26 +0000
+
 ubuntu-meta (1.427) disco; urgency=medium
 
   * Refreshed dependencies
