@@ -1,3 +1,9 @@
+ubuntu-meta (1.429) disco; urgency=medium
+
+  * Properly declare the architectures, we can't have a negative list.
+
+ -- Steve Langasek <steve.langasek@ubuntu.com>  Wed, 14 Nov 2018 14:43:24 -0800
+
 ubuntu-meta (1.428) disco; urgency=medium
 
   * Re-drop desktop metapackages on s390x, which never should have been
