@@ -19,7 +19,6 @@ pulseaudio
 software-properties-gtk
 ubuntu-desktop-minimal
 ubuntu-release-upgrader-gtk
-ubuntu-session
 ubuntu-settings
 update-manager
 update-notifier

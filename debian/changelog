@@ -1,3 +1,10 @@
+ubuntu-meta (1.427) disco; urgency=medium
+
+  * Refreshed dependencies
+  * Removed ubuntu-session from desktop [s390x], desktop-minimal [s390x]
+
+ -- Didier Roche <didrocks@ubuntu.com>  Wed, 14 Nov 2018 10:36:59 +0100
+
 ubuntu-meta (1.426) disco; urgency=medium
 
   * update.cfg:
