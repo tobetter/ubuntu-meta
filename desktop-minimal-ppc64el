@@ -17,6 +17,7 @@ gnome-session-canberra
 gnome-settings-daemon
 gnome-shell
 gnome-shell-extension-appindicator
+gnome-shell-extension-desktop-icons
 gnome-shell-extension-ubuntu-dock
 gstreamer1.0-alsa
 gstreamer1.0-packagekit

@@ -1,3 +1,12 @@
+ubuntu-meta (1.430) disco; urgency=medium
+
+  * Refreshed dependencies
+  * Added gnome-shell-extension-desktop-icons to desktop, desktop-
+    minimal
+  * Removed ubuntu-desktop-minimal from desktop [s390x]
+
+ -- Iain Lane <iain.lane@canonical.com>  Fri, 11 Jan 2019 16:32:30 +0000
+
 ubuntu-meta (1.429) disco; urgency=medium
 
   * Properly declare the architectures, we can't have a negative list.

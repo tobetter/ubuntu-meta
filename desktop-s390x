@@ -15,6 +15,7 @@ gnome-menus
 gnome-session-canberra
 gnome-settings-daemon
 gnome-shell-extension-appindicator
+gnome-shell-extension-desktop-icons
 gnome-shell-extension-ubuntu-dock
 gstreamer1.0-alsa
 gstreamer1.0-packagekit
@@ -34,7 +35,6 @@ pulseaudio
 rfkill
 software-properties-gtk
 spice-vdagent
-ubuntu-desktop-minimal
 ubuntu-drivers-common
 ubuntu-release-upgrader-gtk
 ubuntu-settings
