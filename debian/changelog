@@ -1,3 +1,10 @@
+ubuntu-meta (1.417.1) bionic; urgency=medium
+
+  * Added ubuntu-wsl metapackage from the wsl seed (LP: #1822341)
+  * Added wslu to ubuntu-wsl
+
+ -- Balint Reczey <rbalint@ubuntu.com>  Sat, 30 Mar 2019 15:59:08 +0100
+
 ubuntu-meta (1.417) bionic; urgency=medium
 
   * Refreshed dependencies
