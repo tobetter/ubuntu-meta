@@ -63,3 +63,13 @@ Description: The Ubuntu Server system
  .
  It is also used to help ensure proper upgrades, so it is recommended that
  it not be removed.
+
+Package: ubuntu-wsl
+Architecture: amd64 arm64
+Depends: ${misc:Depends}, ${germinate:Depends}
+Recommends: ${germinate:Recommends}
+Description: Ubuntu on Windows tools - Windows Subsystem for Linux integration
+ Utilities for integrating Ubuntu well into the WSL environment.
+ .
+ It is also used to help ensure proper upgrades, so it is recommended that
+ it not be removed.

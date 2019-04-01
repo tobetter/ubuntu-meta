@@ -3,3 +3,4 @@ standard ubuntu-standard
 desktop-minimal ubuntu-desktop-minimal
 desktop ubuntu-desktop
 server ubuntu-server
+wsl ubuntu-wsl
