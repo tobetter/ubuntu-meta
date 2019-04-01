@@ -1,3 +1,13 @@
+ubuntu-meta (1.431) disco; urgency=medium
+
+  * Refreshed dependencies
+  * Added multipath-tools to server
+  * Added thunderbird to desktop-recommends [s390x]
+  * Added thunderbird-gnome-support to desktop-recommends [s390x]
+  * Added ubuntu-wsl binary package depending on wslu (LP: #1822341)
+
+ -- Balint Reczey <rbalint@ubuntu.com>  Mon, 01 Apr 2019 12:38:30 +0200
+
 ubuntu-meta (1.430) disco; urgency=medium
 
   * Refreshed dependencies
