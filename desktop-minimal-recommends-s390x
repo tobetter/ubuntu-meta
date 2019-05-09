@@ -34,6 +34,7 @@ gnome-bluetooth
 gnome-disk-utility
 gnome-font-viewer
 gnome-getting-started-docs
+gnome-initial-setup
 gnome-keyring
 gnome-power-manager
 gnome-screenshot
@@ -67,9 +68,6 @@ packagekit
 pcmciautils
 plymouth-theme-ubuntu-logo
 policykit-desktop-privileges
-ppp
-pppconfig
-pppoeconf
 printer-driver-brlaser
 printer-driver-c2esp
 printer-driver-foo2zjs
