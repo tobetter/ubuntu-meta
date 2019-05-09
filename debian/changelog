@@ -1,3 +1,19 @@
+ubuntu-meta (1.433) eoan; urgency=medium
+
+  * update.cfg:
+    - Switch to eoan
+  * Refreshed dependencies
+  * Added gdm3 to desktop [s390x], desktop-minimal [s390x]
+  * Added gnome-initial-setup to desktop-minimal-recommends [s390x],
+    desktop-recommends [s390x]
+  * Removed ppp from desktop-minimal-recommends, desktop-recommends
+  * Removed pppconfig from desktop-minimal-recommends, desktop-
+    recommends
+  * Removed pppoeconf from desktop-minimal-recommends, desktop-
+    recommends.  LP: #1766659.
+
+ -- Steve Langasek <steve.langasek@ubuntu.com>  Thu, 09 May 2019 15:53:04 -0700
+
 ubuntu-meta (1.431) disco; urgency=medium
 
   * Refreshed dependencies
