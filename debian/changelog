@@ -1,3 +1,11 @@
+ubuntu-meta (1.434) eoan; urgency=medium
+
+  * Refreshed dependencies
+  * Added fwupd to server-recommends (LP: #1749774)
+  * Removed net-tools from server (LP: #1748956)
+
+ -- Christian Ehrhardt <christian.ehrhardt@canonical.com>  Mon, 13 May 2019 12:08:01 +0200
+
 ubuntu-meta (1.433) eoan; urgency=medium
 
   * update.cfg:
