@@ -16,7 +16,6 @@ htop
 lvm2
 mdadm
 multipath-tools
-net-tools
 open-vm-tools
 overlayroot
 patch
