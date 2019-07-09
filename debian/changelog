@@ -1,3 +1,9 @@
+ubuntu-meta (1.417.2) bionic; urgency=medium
+
+  * Added xdg-desktop-portal-gtk to desktop-recommends (LP: #1795959)
+
+ -- Ken VanDine <ken.vandine@canonical.com>  Tue, 09 Jul 2019 13:11:04 -0400
+
 ubuntu-meta (1.417.1) bionic; urgency=medium
 
   * Added ubuntu-wsl metapackage from the wsl seed (LP: #1822341)
