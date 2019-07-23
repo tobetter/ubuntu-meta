@@ -1,3 +1,9 @@
+ubuntu-meta (1.417.3) bionic; urgency=medium
+
+  * Added dbus-x11 to wsl-recommends (LP: #1837466)
+
+ -- Balint Reczey <rbalint@ubuntu.com>  Wed, 24 Jul 2019 01:21:39 +0200
+
 ubuntu-meta (1.417.2) bionic; urgency=medium
 
   * Added xdg-desktop-portal-gtk to desktop-recommends (LP: #1795959)
