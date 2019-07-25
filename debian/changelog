@@ -1,3 +1,14 @@
+ubuntu-meta (1.361.4) xenial; urgency=medium
+
+  [ Ken VanDine ]
+  * Added xdg-desktop-portal-gtk to desktop-recommends (LP: #1795959)
+  * Update seed_base URL to use HTTPS instead of git+ssh
+
+  [ Balint Reczey ]
+  * Added dbus-x11 to wsl-recommends (LP: #1837466)
+
+ -- Balint Reczey <rbalint@ubuntu.com>  Thu, 25 Jul 2019 15:34:51 +0200
+
 ubuntu-meta (1.361.3) xenial; urgency=medium
 
   * Added ubuntu-wsl metapackage from the wsl seed (LP: #1822341)
