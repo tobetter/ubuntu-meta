@@ -25,9 +25,11 @@ fonts-kacst-one
 fonts-khmeros-core
 fonts-lao
 fonts-liberation
+fonts-liberation2
 fonts-lklug-sinhala
 fonts-noto-cjk
 fonts-noto-color-emoji
+fonts-opensymbol
 fonts-sil-abyssinica
 fonts-sil-padauk
 fonts-thai-tlwg
@@ -126,3 +128,4 @@ yaru-theme-gnome-shell
 yaru-theme-gtk
 yaru-theme-icon
 yaru-theme-sound
+zfsutils-linux
