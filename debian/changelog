@@ -1,3 +1,17 @@
+ubuntu-meta (1.437) eoan; urgency=medium
+
+  * Refreshed dependencies
+  * Added fonts-liberation2 to desktop-minimal-recommends, desktop-
+    recommends (LP: #1844689)
+  * Added fonts-noto-color-emoji to desktop-minimal-recommends
+  * Added fonts-opensymbol to desktop-minimal-recommends, desktop-
+    recommends
+  * Added zfsutils-linux to desktop-minimal-recommends, desktop-
+    recommends (LP: #1843768)
+  * Removed gdm3 from desktop [s390x], desktop-minimal [s390x]
+
+ -- Didier Roche <didrocks@ubuntu.com>  Fri, 04 Oct 2019 16:19:27 +0200
+
 ubuntu-meta (1.436) eoan; urgency=medium
 
   * Refreshed dependencies
