@@ -102,4 +102,5 @@ yaru-theme-gnome-shell
 yaru-theme-gtk
 yaru-theme-icon
 yaru-theme-sound
+zfs-initramfs
 zfsutils-linux
