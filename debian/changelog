@@ -1,3 +1,14 @@
+ubuntu-meta (1.439) eoan; urgency=medium
+
+  * Refreshed dependencies
+  * Only install zfs-initramfs and zfsutils-linux when needed (LP: #1847739)
+  * Removed zfs-initramfs from desktop-minimal-recommends [amd64 arm64
+    ppc64el s390x], desktop-recommends [amd64 arm64 ppc64el s390x]
+  * Removed zfsutils-linux from desktop-minimal-recommends, desktop-
+    recommends
+
+ -- Didier Roche <didrocks@ubuntu.com>  Fri, 11 Oct 2019 12:22:14 +0200
+
 ubuntu-meta (1.438) eoan; urgency=medium
 
   * Refreshed dependencies
