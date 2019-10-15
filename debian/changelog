@@ -1,3 +1,10 @@
+ubuntu-meta (1.440) eoan; urgency=medium
+
+  * Refreshed dependencies
+  * Removed example-content from desktop-recommends
+
+ -- Iain Lane <iain.lane@canonical.com>  Tue, 15 Oct 2019 15:13:44 +0100
+
 ubuntu-meta (1.439) eoan; urgency=medium
 
   * Refreshed dependencies
