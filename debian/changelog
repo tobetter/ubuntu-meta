@@ -1,3 +1,183 @@
+ubuntu-meta (1.441) focal; urgency=medium
+
+  * update.cfg:
+    - Switch to focal
+  * Refreshed dependencies
+  * Added gce-compute-image-packages to standard-recommends [i386]
+  * Removed acpi-support from desktop-minimal-recommends [i386], desktop-
+    recommends [i386]
+  * Removed aisleriot from desktop-recommends [i386]
+  * Removed anacron from desktop [i386], desktop-minimal [i386]
+  * Removed at from server [i386]
+  * Removed baobab from desktop-recommends [i386]
+  * Removed brltty from desktop-minimal-recommends [i386], desktop-
+    recommends [i386]
+  * Removed cheese from desktop-recommends [i386]
+  * Removed cups-filters from desktop-minimal-recommends [i386], desktop-
+    recommends [i386]
+  * Removed deja-dup from desktop-recommends [i386]
+  * Removed eject from minimal [i386]
+  * Removed eog from desktop-minimal-recommends [i386], desktop-
+    recommends [i386]
+  * Removed ethtool from server [i386]
+  * Removed evince from desktop-minimal-recommends [i386], desktop-
+    recommends [i386]
+  * Removed file-roller from desktop-minimal-recommends [i386], desktop-
+    recommends [i386]
+  * Removed firefox from desktop-minimal-recommends [i386], desktop-
+    recommends [i386]
+  * Removed ftp from standard [i386]
+  * Removed fwupd from desktop-minimal-recommends [i386], desktop-
+    recommends [i386], server-recommends [i386]
+  * Removed fwupd-signed from desktop-minimal-recommends [i386], desktop-
+    recommends [i386]
+  * Removed gdm3 from desktop [i386], desktop-minimal [i386]
+  * Removed gir1.2-gmenu-3.0 from desktop-minimal-recommends [i386],
+    desktop-recommends [i386]
+  * Removed gnome-bluetooth from desktop-minimal-recommends [i386],
+    desktop-recommends [i386]
+  * Removed gnome-calendar from desktop-recommends [i386]
+  * Removed gnome-control-center from desktop [i386], desktop-minimal
+    [i386]
+  * Removed gnome-disk-utility from desktop-minimal-recommends [i386],
+    desktop-recommends [i386]
+  * Removed gnome-font-viewer from desktop-minimal-recommends [i386],
+    desktop-recommends [i386]
+  * Removed gnome-initial-setup from desktop-minimal-recommends [i386],
+    desktop-recommends [i386]
+  * Removed gnome-keyring from desktop-minimal-recommends [i386],
+    desktop-recommends [i386]
+  * Removed gnome-mahjongg from desktop-recommends [i386]
+  * Removed gnome-menus from desktop [i386], desktop-minimal [i386]
+  * Removed gnome-mines from desktop-recommends [i386]
+  * Removed gnome-power-manager from desktop-minimal-recommends [i386],
+    desktop-recommends [i386]
+  * Removed gnome-screenshot from desktop-minimal-recommends [i386],
+    desktop-recommends [i386]
+  * Removed gnome-settings-daemon from desktop [i386], desktop-minimal
+    [i386]
+  * Removed gnome-shell from desktop [i386], desktop-minimal [i386]
+  * Removed gnome-software-plugin-snap from desktop-minimal-recommends
+    [i386], desktop-recommends [i386]
+  * Removed gnome-sudoku from desktop-recommends [i386]
+  * Removed gnome-system-monitor from desktop-minimal-recommends [i386],
+    desktop-recommends [i386]
+  * Removed gnome-terminal from desktop-minimal-recommends [i386],
+    desktop-recommends [i386]
+  * Removed gnome-todo from desktop-recommends [i386]
+  * Removed gstreamer1.0-packagekit from desktop [i386], desktop-minimal
+    [i386]
+  * Removed hdparm from standard [i386]
+  * Removed hplip from desktop-minimal-recommends [i386], desktop-
+    recommends [i386]
+  * Removed htop from server [i386]
+  * Removed inputattach from desktop [i386], desktop-minimal [i386]
+  * Removed iputils-ping from minimal [i386]
+  * Removed iputils-tracepath from standard-recommends [i386]
+  * Removed irqbalance from standard-recommends [i386]
+  * Removed isc-dhcp-client from minimal [i386]
+  * Removed kbd from minimal [i386]
+  * Removed kerneloops from desktop-minimal-recommends [i386], desktop-
+    recommends [i386]
+  * Removed landscape-common from server-recommends [i386]
+  * Removed libpam-gnome-keyring from desktop-minimal-recommends [i386],
+    desktop-recommends [i386]
+  * Removed libreoffice-calc from desktop-recommends [i386]
+  * Removed libreoffice-gnome from desktop-recommends [i386]
+  * Removed libreoffice-impress from desktop-recommends [i386]
+  * Removed libreoffice-math from desktop-recommends [i386]
+  * Removed libreoffice-writer from desktop-recommends [i386]
+  * Removed logrotate from standard [i386]
+  * Removed lshw from standard [i386]
+  * Removed ltrace from standard [i386]
+  * Removed memtest86+ from desktop-minimal-recommends [i386], desktop-
+    recommends [i386]
+  * Removed mousetweaks from desktop-minimal-recommends [i386], desktop-
+    recommends [i386]
+  * Removed mtr-tiny from standard-recommends [i386]
+  * Removed nano from standard-recommends [i386]
+  * Removed nautilus from desktop [i386], desktop-minimal [i386]
+  * Removed nautilus-sendto from desktop-minimal-recommends [i386],
+    desktop-recommends [i386]
+  * Removed nautilus-share from desktop-minimal-recommends [i386],
+    desktop-recommends [i386]
+  * Removed netcat-openbsd from minimal [i386]
+  * Removed netplan.io from minimal [i386]
+  * Removed network-manager-openvpn-gnome from desktop-minimal-
+    recommends [i386], desktop-recommends [i386]
+  * Removed network-manager-pptp-gnome from desktop-minimal-recommends
+    [i386], desktop-recommends [i386]
+  * Removed ntfs-3g from standard-recommends [i386]
+  * Removed open-iscsi from server-recommends [i386]
+  * Removed open-vm-tools from server [i386]
+  * Removed packagekit from desktop-minimal-recommends [i386], desktop-
+    recommends [i386]
+  * Removed pcmciautils from desktop-minimal-recommends [i386], desktop-
+    recommends [i386]
+  * Removed plymouth from standard-recommends [i386]
+  * Removed plymouth-theme-ubuntu-logo from desktop-minimal-recommends
+    [i386], desktop-recommends [i386]
+  * Removed plymouth-theme-ubuntu-text from standard-recommends [i386]
+  * Removed printer-driver-brlaser from desktop-minimal-recommends
+    [i386], desktop-recommends [i386]
+  * Removed printer-driver-c2esp from desktop-minimal-recommends [i386],
+    desktop-recommends [i386]
+  * Removed printer-driver-foo2zjs from desktop-minimal-recommends
+    [i386], desktop-recommends [i386]
+  * Removed printer-driver-m2300w from desktop-minimal-recommends
+    [i386], desktop-recommends [i386]
+  * Removed printer-driver-min12xxw from desktop-minimal-recommends
+    [i386], desktop-recommends [i386]
+  * Removed printer-driver-pnm2ppa from desktop [i386], desktop-minimal
+    [i386]
+  * Removed printer-driver-ptouch from desktop-minimal-recommends
+    [i386], desktop-recommends [i386]
+  * Removed printer-driver-pxljr from desktop-minimal-recommends [i386],
+    desktop-recommends [i386]
+  * Removed printer-driver-splix from desktop-minimal-recommends [i386],
+    desktop-recommends [i386]
+  * Removed remmina from desktop-recommends [i386]
+  * Removed rhythmbox from desktop-recommends [i386]
+  * Removed rsyslog from minimal-recommends [i386]
+  * Removed screen from server [i386]
+  * Removed seahorse from desktop-minimal-recommends [i386], desktop-
+    recommends [i386]
+  * Removed shotwell from desktop-recommends [i386]
+  * Removed simple-scan from desktop-recommends [i386]
+  * Removed snapd from desktop-minimal-recommends [i386], desktop-
+    recommends [i386], server-recommends [i386]
+  * Removed sosreport from server [i386]
+  * Removed spice-vdagent from desktop [i386], desktop-minimal [i386]
+  * Removed strace from standard [i386]
+  * Removed tcpdump from standard-recommends [i386]
+  * Removed telnet from standard-recommends [i386]
+  * Removed thunderbird from desktop-recommends [i386]
+  * Removed thunderbird-gnome-support from desktop-recommends [i386]
+  * Removed tmux from server [i386]
+  * Removed totem from desktop-recommends [i386]
+  * Removed transmission-gtk from desktop-recommends [i386]
+  * Removed ubuntu-advantage-tools from minimal [i386]
+  * Removed ubuntu-desktop-minimal from desktop [i386]
+  * Removed ubuntu-report from desktop-minimal-recommends [i386],
+    desktop-recommends [i386]
+  * Refreshed dependencies
+  * Added show-motd to wsl-recommends
+  * Removed usb-creator-gtk from desktop-recommends [i386]
+  * Removed vino from desktop-recommends [i386]
+  * Removed whoopsie from desktop-minimal-recommends [i386], desktop-
+    recommends [i386]
+  * Removed wireless-tools from desktop [i386], desktop-minimal [i386]
+  * Removed wpasupplicant from desktop [i386], desktop-minimal [i386]
+  * Removed xdg-desktop-portal-gtk from desktop-minimal-recommends
+    [i386], desktop-recommends [i386]
+  * Removed xdg-user-dirs from desktop [i386], desktop-minimal [i386]
+  * Removed xdg-user-dirs-gtk from desktop [i386], desktop-minimal
+    [i386]
+  * Removed yelp from desktop [i386], desktop-minimal [i386]
+  * Removed zenity from desktop [i386], desktop-minimal [i386]
+
+ -- Balint Reczey <rbalint@ubuntu.com>  Sat, 07 Dec 2019 23:28:37 +0100
+
 ubuntu-meta (1.440) eoan; urgency=medium
 
   * Refreshed dependencies
