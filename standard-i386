@@ -6,16 +6,11 @@ dnsutils
 dosfstools
 ed
 file
-ftp
-hdparm
 info
 iptables
 language-selector-common
 libpam-systemd
-logrotate
-lshw
 lsof
-ltrace
 man-db
 mime-support
 parted
@@ -23,7 +18,6 @@ pciutils
 popularity-contest
 psmisc
 rsync
-strace
 time
 usbutils
 wget
