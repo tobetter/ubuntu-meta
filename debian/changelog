@@ -1,3 +1,9 @@
+ubuntu-meta (1.440.1) eoan; urgency=medium
+
+  * Added show-motd to wsl-recommends (LP: #1855549)
+
+ -- Balint Reczey <rbalint@ubuntu.com>  Sun, 08 Dec 2019 21:38:40 +0100
+
 ubuntu-meta (1.440) eoan; urgency=medium
 
   * Refreshed dependencies
