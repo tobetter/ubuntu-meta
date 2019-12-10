@@ -1,3 +1,9 @@
+ubuntu-meta (1.442) focal; urgency=medium
+
+  * debian/control, update.cfg: Stop updating for i386 to avoid noise.
+
+ -- Adam Conrad <adconrad@ubuntu.com>  Tue, 10 Dec 2019 14:17:45 -0800
+
 ubuntu-meta (1.441) focal; urgency=medium
 
   * update.cfg:
