@@ -1,3 +1,10 @@
+ubuntu-meta (1.443) focal; urgency=medium
+
+  * Refreshed dependencies
+  * Removed ubuntu-web-launchers from desktop-recommends
+
+ -- Iain Lane <iain.lane@canonical.com>  Mon, 20 Jan 2020 12:47:21 +0000
+
 ubuntu-meta (1.442) focal; urgency=medium
 
   * debian/control, update.cfg: Stop updating for i386 to avoid noise.
