@@ -1,3 +1,10 @@
+ubuntu-meta (1.417.4) bionic; urgency=medium
+
+  * Refreshed dependencies
+  * Removed ubuntu-web-launchers from desktop-recommends (LP: #1860565)
+
+ -- Iain Lane <iain.lane@canonical.com>  Wed, 22 Jan 2020 15:25:25 +0000
+
 ubuntu-meta (1.417.3) bionic; urgency=medium
 
   * Added dbus-x11 to wsl-recommends (LP: #1837466)
