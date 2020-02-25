@@ -36,14 +36,16 @@ gedit
 gir1.2-gmenu-3.0
 gnome-accessibility-themes
 gnome-bluetooth
+gnome-calculator
+gnome-characters
 gnome-disk-utility
 gnome-font-viewer
 gnome-getting-started-docs
 gnome-initial-setup
 gnome-keyring
+gnome-logs
 gnome-power-manager
 gnome-screenshot
-gnome-software-plugin-snap
 gnome-system-monitor
 gnome-terminal
 gpg-agent
@@ -73,7 +75,7 @@ network-manager-pptp-gnome
 orca
 packagekit
 pcmciautils
-plymouth-theme-ubuntu-logo
+plymouth-theme-spinner
 policykit-desktop-privileges
 printer-driver-brlaser
 printer-driver-c2esp
@@ -91,7 +93,6 @@ speech-dispatcher
 system-config-printer
 ubuntu-docs
 ubuntu-report
-ubuntu-software
 ubuntu-wallpapers
 whoopsie
 xcursor-themes

@@ -39,17 +39,19 @@ gedit
 gir1.2-gmenu-3.0
 gnome-accessibility-themes
 gnome-bluetooth
+gnome-calculator
 gnome-calendar
+gnome-characters
 gnome-disk-utility
 gnome-font-viewer
 gnome-getting-started-docs
 gnome-initial-setup
 gnome-keyring
+gnome-logs
 gnome-mahjongg
 gnome-mines
 gnome-power-manager
 gnome-screenshot
-gnome-software-plugin-snap
 gnome-sudoku
 gnome-system-monitor
 gnome-terminal
@@ -88,7 +90,7 @@ network-manager-pptp-gnome
 orca
 packagekit
 pcmciautils
-plymouth-theme-ubuntu-logo
+plymouth-theme-spinner
 policykit-desktop-privileges
 printer-driver-brlaser
 printer-driver-c2esp
@@ -114,7 +116,6 @@ totem
 transmission-gtk
 ubuntu-docs
 ubuntu-report
-ubuntu-software
 ubuntu-wallpapers
 vino
 whoopsie
