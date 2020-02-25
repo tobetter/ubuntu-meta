@@ -1,3 +1,20 @@
+ubuntu-meta (1.444) focal; urgency=medium
+
+  * Refreshed dependencies
+  * Added gnome-calculator, gnome-characters, gnome-logs to 
+    desktop-minimal-recommends, desktop-recommends and removed the
+    snap versions
+  * Added plymouth-theme-spinner to desktop-minimal-recommends, desktop-
+    recommends
+  * Removed gnome-software-plugin-snap from desktop-minimal-recommends,
+    desktop-recommends
+  * Removed plymouth-theme-ubuntu-logo from desktop-minimal-recommends,
+    desktop-recommends
+  * Removed ubuntu-software from desktop-minimal-recommends, desktop-
+    recommends and replaced with snap:snap-store
+
+ -- Ken VanDine <ken.vandine@canonical.com>  Tue, 25 Feb 2020 16:10:18 -0500
+
 ubuntu-meta (1.443) focal; urgency=medium
 
   * Refreshed dependencies
