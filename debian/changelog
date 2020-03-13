@@ -1,3 +1,11 @@
+ubuntu-meta (1.445) focal; urgency=medium
+
+  * debian/control
+    - Added provides to ubuntu-desktop and ubuntu-desktop-minimal for 
+      packagekit-installer.  Seeding snap-store satisfies this.
+
+ -- Ken VanDine <ken.vandine@canonical.com>  Fri, 13 Mar 2020 11:03:57 -0400
+
 ubuntu-meta (1.444) focal; urgency=medium
 
   * Refreshed dependencies
