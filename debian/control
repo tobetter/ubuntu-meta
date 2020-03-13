@@ -38,6 +38,7 @@ Package: ubuntu-desktop-minimal
 Architecture: amd64 arm64 armhf ppc64el
 Depends: ${misc:Depends}, ${germinate:Depends}
 Recommends: ${germinate:Recommends}
+Provides: packagekit-installer
 Description: The Ubuntu desktop minimal system
  This package depends on all of the packages in the Ubuntu desktop minimal
  system.
@@ -48,6 +49,7 @@ Package: ubuntu-desktop
 Architecture: amd64 arm64 armhf ppc64el
 Depends: ${misc:Depends}, ${germinate:Depends}
 Recommends: ${germinate:Recommends}
+Provides: packagekit-installer
 Description: The Ubuntu desktop system
  This package depends on all of the packages in the Ubuntu desktop system
  .
