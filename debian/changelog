@@ -1,3 +1,13 @@
+ubuntu-meta (1.446) focal; urgency=medium
+
+  * Refreshed dependencies
+  * Added gnome-shell to desktop [s390x], desktop-minimal [s390x]
+  * Added lxd-agent-loader to server-recommends [arm64 armhf ppc64el
+    s390x]
+  * Moved open-vm-tools to server-recommends [amd64]
+
+ -- Stéphane Graber <stgraber@ubuntu.com>  Wed, 25 Mar 2020 12:11:57 -0400
+
 ubuntu-meta (1.445) focal; urgency=medium
 
   * debian/control
