@@ -1,3 +1,10 @@
+ubuntu-meta (1.447) focal; urgency=medium
+
+  * Refreshed dependencies
+  * Added lxd-agent-loader to server-recommends [amd64]
+
+ -- Stéphane Graber <stgraber@ubuntu.com>  Tue, 31 Mar 2020 23:11:07 -0400
+
 ubuntu-meta (1.446) focal; urgency=medium
 
   * Refreshed dependencies
