@@ -30,6 +30,7 @@ libnotify-bin
 libsasl2-modules
 libu2f-udev
 nautilus
+odroid-alsa
 openprinting-ppds
 printer-driver-pnm2ppa
 pulseaudio
