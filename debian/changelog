@@ -1,3 +1,10 @@
+ubuntu-meta (1.450.1) focal; urgency=medium
+
+  * Added apt-config-icons-hidpi to desktop-minimal-recommends, desktop-
+    recommends (LP: #1864307)
+
+ -- Ken VanDine <ken.vandine@canonical.com>  Mon, 11 May 2020 10:37:00 -0400
+
 ubuntu-meta (1.450) focal; urgency=medium
 
   * Add riscv64.
