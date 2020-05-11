@@ -1,6 +1,7 @@
 app-install-data-partner
 apport-gtk
 appstream
+apt-config-icons-hidpi
 avahi-autoipd
 avahi-daemon
 bluez

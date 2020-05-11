@@ -1,3 +1,13 @@
+ubuntu-meta (1.451) groovy; urgency=medium
+
+  * Refreshed dependencies
+  * Added apt-config-icons-hidpi to desktop-minimal-recommends, desktop-
+    recommends (LP: #1864307)
+  * Added bind9-dnsutils to standard
+  * Removed dnsutils from standard
+
+ -- Ken VanDine <ken.vandine@canonical.com>  Mon, 11 May 2020 09:31:32 -0400
+
 ubuntu-meta (1.450) focal; urgency=medium
 
   * Add riscv64.

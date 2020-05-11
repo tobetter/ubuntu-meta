@@ -1,8 +1,8 @@
+bind9-dnsutils
 busybox-static
 cpio
 cron
 dmidecode
-dnsutils
 dosfstools
 ed
 file
