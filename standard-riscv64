@@ -18,9 +18,9 @@ man-db
 mime-support
 parted
 pciutils
-popularity-contest
 psmisc
 rsync
+strace
 time
 usbutils
 wget

@@ -1,3 +1,18 @@
+ubuntu-meta (1.452) groovy; urgency=medium
+
+  * update.cfg:
+    - Switch to groovy
+  * Refreshed dependencies
+  * Added gamemode to desktop-minimal-recommends [arm64 armhf ppc64el
+    riscv64 s390x], desktop-recommends [arm64 armhf ppc64el riscv64
+    s390x]
+  * Added snapd to desktop-minimal-recommends [riscv64], desktop-
+    recommends [riscv64], server-recommends [riscv64]
+  * Added strace to standard [riscv64]
+  * Removed popularity-contest from standard
+
+ -- Michael Hudson-Doyle <michael.hudson@ubuntu.com>  Thu, 23 Jul 2020 15:05:10 +1200
+
 ubuntu-meta (1.451) groovy; urgency=medium
 
   * Refreshed dependencies
