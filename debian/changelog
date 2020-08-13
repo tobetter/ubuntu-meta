@@ -1,3 +1,12 @@
+ubuntu-meta (1.453) groovy; urgency=medium
+
+  * d/control: manually adding motd-news-config to ubuntu-server depends
+    so that base-files (with the new motd-news-config bin pkg) can
+    migrate. Seeds are changed already, so the next ubuntu-meta upload
+    shall be done with the results of the embedded update script.
+
+ -- Andreas Hasenack <andreas@canonical.com>  Thu, 13 Aug 2020 18:11:09 -0300
+
 ubuntu-meta (1.452) groovy; urgency=medium
 
   * update.cfg:
