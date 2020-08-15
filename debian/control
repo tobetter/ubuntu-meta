@@ -58,7 +58,7 @@ Description: The Ubuntu desktop system
 
 Package: ubuntu-server
 Architecture: any
-Depends: ${misc:Depends}, ${germinate:Depends}, motd-news-config
+Depends: ${misc:Depends}, ${germinate:Depends}
 Recommends: ${germinate:Recommends}
 Description: The Ubuntu Server system
  This package depends on all of the packages in the Ubuntu Server system
