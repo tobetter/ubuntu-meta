@@ -1,3 +1,12 @@
+ubuntu-meta (1.454) groovy; urgency=medium
+
+  * Refreshed dependencies
+  * Added motd-news-config to server
+  * d/control: removed manual motd-news-config dependency, it's
+    now correctly grabbed from the seeds
+
+ -- Andreas Hasenack <andreas@canonical.com>  Sat, 15 Aug 2020 14:44:59 +0000
+
 ubuntu-meta (1.453) groovy; urgency=medium
 
   * d/control: manually adding motd-news-config to ubuntu-server depends
