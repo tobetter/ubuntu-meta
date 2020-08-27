@@ -1,3 +1,4 @@
+adcli
 aisleriot
 app-install-data-partner
 apport-gtk
@@ -97,6 +98,7 @@ printer-driver-pxljr
 printer-driver-sag-gdi
 printer-driver-splix
 pulseaudio-module-bluetooth
+realmd
 remmina
 rhythmbox
 seahorse
@@ -104,6 +106,7 @@ shotwell
 simple-scan
 snapd
 speech-dispatcher
+sssd
 system-config-printer
 totem
 transmission-gtk
