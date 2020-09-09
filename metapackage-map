@@ -2,5 +2,7 @@ minimal ubuntu-minimal
 standard ubuntu-standard
 desktop-minimal ubuntu-desktop-minimal
 desktop ubuntu-desktop
+desktop-raspi ubuntu-desktop-raspi
 server ubuntu-server
+server-raspi ubuntu-server-raspi
 wsl ubuntu-wsl

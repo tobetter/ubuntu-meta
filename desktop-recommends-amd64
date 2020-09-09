@@ -118,6 +118,7 @@ simple-scan
 snapd
 speech-dispatcher
 sssd
+sssd-tools
 system-config-printer
 thunderbird
 thunderbird-gnome-support

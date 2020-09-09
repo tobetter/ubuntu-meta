@@ -107,6 +107,7 @@ simple-scan
 snapd
 speech-dispatcher
 sssd
+sssd-tools
 system-config-printer
 totem
 transmission-gtk

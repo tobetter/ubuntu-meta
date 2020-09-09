@@ -1,3 +1,17 @@
+ubuntu-meta (1.456) groovy; urgency=medium
+
+  [ Martin Wimpress ]
+  * Add desktop-raspi and server-raspi to metapackage-map
+  * Add Package: ubuntu-desktop-raspi and ubuntu-server-raspi
+
+  [ Dimitri John Ledkov ]
+  * Add raspi to seeds in update.cfg
+  * Drop provides on raspi, fix whitespace.
+  * Refreshed dependencies
+  * Added sssd-tools to desktop-minimal-recommends, desktop-recommends
+
+ -- Dimitri John Ledkov <xnox@ubuntu.com>  Wed, 09 Sep 2020 13:04:51 +0100
+
 ubuntu-meta (1.455) groovy; urgency=medium
 
   * Refreshed dependencies
