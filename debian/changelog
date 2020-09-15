@@ -1,3 +1,14 @@
+ubuntu-meta (1.457) groovy; urgency=medium
+
+  * Refreshed dependencies
+  * Added cloud-guest-utils to server-raspi
+  * Added libglib2.0-bin to desktop-minimal-recommends, desktop-
+    recommends
+  * Added wpasupplicant to desktop-raspi
+  * Removed gvfs-bin from desktop, desktop-minimal
+
+ -- Iain Lane <iain.lane@canonical.com>  Tue, 15 Sep 2020 10:45:22 +0100
+
 ubuntu-meta (1.456) groovy; urgency=medium
 
   [ Martin Wimpress ]
