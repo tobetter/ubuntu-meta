@@ -1,3 +1,10 @@
+ubuntu-meta (1.459) groovy; urgency=medium
+
+  * Refreshed dependencies
+  * Added ubuntu-wallpapers-groovy-raspi to desktop-raspi-recommends
+
+ -- Iain Lane <iain.lane@canonical.com>  Wed, 07 Oct 2020 22:43:44 +0100
+
 ubuntu-meta (1.458) groovy; urgency=medium
 
   * Refreshed dependencies
