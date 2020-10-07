@@ -11,6 +11,7 @@ foomatic-db-compressed-ppds
 gdm3
 genisoimage
 ghostscript-x
+gnome-control-center
 gnome-menus
 gnome-session-canberra
 gnome-settings-daemon
@@ -19,7 +20,6 @@ gnome-shell-extension-appindicator
 gnome-shell-extension-desktop-icons
 gnome-shell-extension-ubuntu-dock
 gstreamer1.0-alsa
-gstreamer1.0-packagekit
 gstreamer1.0-plugins-base-apps
 gstreamer1.0-pulseaudio
 inputattach

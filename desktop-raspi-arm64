@@ -3,7 +3,7 @@ alsa-utils
 anacron
 bc
 ca-certificates
-cloud-guest-utils
+cloud-initramfs-growroot
 flash-kernel
 fonts-dejavu-core
 fonts-freefont-ttf
@@ -19,6 +19,7 @@ rfkill
 spice-vdagent
 ubuntu-desktop
 ubuntu-drivers-common
+ubuntu-raspi-settings
 unzip
 wireless-tools
 wpasupplicant

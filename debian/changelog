@@ -1,3 +1,18 @@
+ubuntu-meta (1.458) groovy; urgency=medium
+
+  * Refreshed dependencies
+  * Added cloud-initramfs-growroot to desktop-raspi, server-raspi
+  * Added gdm3 to desktop [s390x], desktop-minimal [s390x]
+  * Added gnome-control-center to desktop [riscv64], desktop-minimal
+    [riscv64]
+  * Added ubuntu-raspi-settings to desktop-raspi
+  * Added wpasupplicant to desktop-raspi
+  * Removed cloud-guest-utils from desktop-raspi
+  * Removed gstreamer1.0-packagekit from desktop [riscv64 s390x],
+    desktop-minimal [riscv64 s390x]
+
+ -- Iain Lane <iain.lane@canonical.com>  Wed, 07 Oct 2020 13:49:09 +0100
+
 ubuntu-meta (1.457) groovy; urgency=medium
 
   * Refreshed dependencies

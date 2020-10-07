@@ -3,7 +3,7 @@ alsa-utils
 anacron
 bc
 ca-certificates
-cloud-guest-utils
+cloud-initramfs-growroot
 fonts-dejavu-core
 fonts-freefont-ttf
 foomatic-db-compressed-ppds
@@ -16,6 +16,7 @@ openprinting-ppds
 printer-driver-pnm2ppa
 rfkill
 spice-vdagent
+ubuntu-raspi-settings
 unzip
 wireless-tools
 wpasupplicant
