@@ -1,4 +1,4 @@
-ubuntu-meta (1.460) UNRELEASED; urgency=medium
+ubuntu-meta (1.460) hirsute; urgency=medium
 
   * Refreshed dependencies
   * Added deja-dup to desktop-raspi-recommends [riscv64], desktop-
