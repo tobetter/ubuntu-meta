@@ -1,5 +1,4 @@
 apport
-at
 bcache-tools
 btrfs-progs
 byobu
@@ -15,12 +14,14 @@ fonts-ubuntu-console
 git
 gnupg
 htop
+linux-firmware-raspi2
 lvm2
 mdadm
 motd-news-config
 multipath-tools
 overlayroot
 patch
+pi-bluetooth
 pollinate
 screen
 software-properties-common

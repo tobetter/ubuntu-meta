@@ -1,3 +1,19 @@
+ubuntu-meta (1.460) UNRELEASED; urgency=medium
+
+  * Refreshed dependencies
+  * Added deja-dup to desktop-raspi-recommends [riscv64], desktop-
+    recommends [riscv64]
+  * Added linux-firmware-raspi2 to desktop-raspi [arm64 armhf], server-
+    raspi [arm64 armhf]
+  * Added pi-bluetooth to desktop-raspi [arm64 armhf], server-raspi
+    [arm64 armhf]
+  * Added ubuntu-drivers-common to desktop [riscv64], desktop-minimal
+    [riscv64], desktop-raspi [riscv64]
+  * Removed at from server, server-raspi
+  * Removed bzip2 from minimal
+
+ -- Paride Legovini <paride.legovini@canonical.com>  Fri, 27 Nov 2020 11:53:54 +0100
+
 ubuntu-meta (1.459) groovy; urgency=medium
 
   * Refreshed dependencies

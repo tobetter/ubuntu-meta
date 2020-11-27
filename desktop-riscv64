@@ -35,6 +35,7 @@ pulseaudio
 rfkill
 software-properties-gtk
 spice-vdagent
+ubuntu-drivers-common
 ubuntu-release-upgrader-gtk
 ubuntu-session
 ubuntu-settings
