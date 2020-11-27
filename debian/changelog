@@ -11,8 +11,14 @@ ubuntu-meta (1.460) UNRELEASED; urgency=medium
     [riscv64], desktop-raspi [riscv64]
   * Removed at from server, server-raspi
   * Removed bzip2 from minimal
+  * Packaging changes:
+    - Fix d/changelog issues
+    - d/control:
+      + upgrade to dh compat level 13 via debhelper-compat
+      + upgrade to Standards-Verion 4.5.1 (no changes needed)
+      + set Rules-Requires-Root: no
 
- -- Paride Legovini <paride.legovini@canonical.com>  Fri, 27 Nov 2020 11:53:54 +0100
+ -- Paride Legovini <paride.legovini@canonical.com>  Fri, 27 Nov 2020 12:09:27 +0100
 
 ubuntu-meta (1.459) groovy; urgency=medium
 
