@@ -155,7 +155,7 @@ ubuntu-meta (1.446) focal; urgency=medium
 ubuntu-meta (1.445) focal; urgency=medium
 
   * debian/control
-    - Added provides to ubuntu-desktop and ubuntu-desktop-minimal for 
+    - Added provides to ubuntu-desktop and ubuntu-desktop-minimal for
       packagekit-installer.  Seeding snap-store satisfies this.
 
  -- Ken VanDine <ken.vandine@canonical.com>  Fri, 13 Mar 2020 11:03:57 -0400
@@ -163,7 +163,7 @@ ubuntu-meta (1.445) focal; urgency=medium
 ubuntu-meta (1.444) focal; urgency=medium
 
   * Refreshed dependencies
-  * Added gnome-calculator, gnome-characters, gnome-logs to 
+  * Added gnome-calculator, gnome-characters, gnome-logs to
     desktop-minimal-recommends, desktop-recommends and removed the
     snap versions
   * Added plymouth-theme-spinner to desktop-minimal-recommends, desktop-
@@ -727,7 +727,7 @@ ubuntu-meta (1.421) cosmic; urgency=medium
   * Refreshed dependencies
   * Moved open-iscsi to server-recommends (LP: #1630946)
 
- -- root <root@c.lxd>  Wed, 30 May 2018 07:01:29 +0000
+ -- Christian Ehrhardt <christian.ehrhardt@canonical.com>  Wed, 30 May 2018 07:01:29 +0000
 
 ubuntu-meta (1.420) cosmic; urgency=medium
 
@@ -2575,7 +2575,7 @@ ubuntu-meta (1.237) oneiric; urgency=low
 
   * Refreshed dependencies
   * Removed screensaver-default-images from desktop
-  * (temporarily) Removed ubuntuone-client-gnome from desktop-recommends 
+  * (temporarily) Removed ubuntuone-client-gnome from desktop-recommends
     (it does not exist in the archive currently which breaks image builds)
   * Removed xscreensaver-data from desktop
   * Removed xscreensaver-gl from desktop
@@ -5561,7 +5561,7 @@ ubuntu-meta (1.48) gutsy; urgency=low
 ubuntu-meta (1.47ubuntu2) gutsy; urgency=low
 
   * Revert the ubuntu-minimal changes introduced by my last
-    upload 
+    upload
 
  -- Michael Vogt <michael.vogt@ubuntu.com>  Mon, 25 Jun 2007 17:33:03 +0200
 
