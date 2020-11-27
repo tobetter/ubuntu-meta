@@ -4,6 +4,7 @@ Priority: optional
 Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
 Standards-Version: 4.5.1
 Build-Depends: debhelper-compat (= 13), germinate (>= 1.18)
+Rules-Requires-Root: no
 
 Package: ubuntu-minimal
 Architecture: any
