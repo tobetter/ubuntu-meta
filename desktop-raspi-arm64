@@ -13,9 +13,7 @@ ghostscript-x
 inputattach
 libsasl2-modules
 libu2f-udev
-linux-firmware-raspi2
 openprinting-ppds
-pi-bluetooth
 printer-driver-pnm2ppa
 rfkill
 spice-vdagent

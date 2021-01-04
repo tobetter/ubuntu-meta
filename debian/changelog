@@ -1,3 +1,13 @@
+ubuntu-meta (1.461) hirsute; urgency=medium
+
+  * Refreshed dependencies
+  * Removed linux-firmware-raspi2 from desktop-raspi [arm64 armhf],
+    server-raspi [arm64 armhf]
+  * Removed pi-bluetooth from desktop-raspi [arm64 armhf], server-raspi
+    [arm64 armhf]
+
+ -- Iain Lane <iain.lane@canonical.com>  Mon, 04 Jan 2021 10:30:26 +0000
+
 ubuntu-meta (1.460) hirsute; urgency=medium
 
   * Refreshed dependencies
