@@ -30,5 +30,6 @@ tzdata
 ubuntu-advantage-tools
 ubuntu-keyring
 udev
+usrmerge
 vim-tiny
 whiptail

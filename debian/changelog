@@ -1,3 +1,17 @@
+ubuntu-meta (1.463) hirsute; urgency=medium
+
+  * Refreshed dependencies
+  * Added libraspberrypi-bin to desktop-raspi [arm64 armhf], server-
+    raspi [arm64 armhf]
+  * Added libraspberrypi0 to desktop-raspi [arm64 armhf], server-raspi
+    [arm64 armhf]
+  * Added rpi-eeprom to desktop-raspi [arm64 armhf], server-raspi [arm64
+    armhf]
+  * Added usrmerge to minimal LP: #1906671
+  * Added wpasupplicant to desktop-raspi
+
+ -- Dimitri John Ledkov <xnox@ubuntu.com>  Fri, 19 Feb 2021 21:38:48 +0000
+
 ubuntu-meta (1.462) hirsute; urgency=medium
 
   * Refreshed dependencies

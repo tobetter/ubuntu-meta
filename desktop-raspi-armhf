@@ -10,11 +10,14 @@ fonts-freefont-ttf
 foomatic-db-compressed-ppds
 ghostscript-x
 inputattach
+libraspberrypi-bin
+libraspberrypi0
 libsasl2-modules
 libu2f-udev
 openprinting-ppds
 printer-driver-pnm2ppa
 rfkill
+rpi-eeprom
 spice-vdagent
 ubuntu-desktop
 ubuntu-drivers-common
