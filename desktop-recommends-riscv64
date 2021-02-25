@@ -71,7 +71,9 @@ kerneloops
 laptop-detect
 libglib2.0-bin
 libnss-mdns
+libpam-fprintd
 libpam-gnome-keyring
+libpam-sss
 libproxy1-plugin-gsettings
 libproxy1-plugin-networkmanager
 libreoffice-ogltrans
@@ -115,7 +117,6 @@ totem
 transmission-gtk
 ubuntu-docs
 ubuntu-wallpapers
-vino
 whoopsie
 xcursor-themes
 xdg-desktop-portal-gtk

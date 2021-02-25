@@ -1,3 +1,17 @@
+ubuntu-meta (1.464) hirsute; urgency=medium
+
+  * Refreshed dependencies
+  * Added gnome-shell-extension-desktop-icons-ng to desktop, desktop-
+    minimal
+  * Added libpam-fprintd to desktop-minimal-recommends, desktop-
+    recommends
+  * Added libpam-sss to desktop-minimal-recommends, desktop-recommends
+  * Removed gnome-shell-extension-desktop-icons from desktop, desktop-
+    minimal
+  * Removed vino from desktop-raspi-recommends, desktop-recommends
+
+ -- Iain Lane <iain.lane@canonical.com>  Thu, 25 Feb 2021 19:46:30 +0000
+
 ubuntu-meta (1.463) hirsute; urgency=medium
 
   * Refreshed dependencies

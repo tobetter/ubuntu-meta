@@ -63,7 +63,9 @@ kerneloops
 laptop-detect
 libglib2.0-bin
 libnss-mdns
+libpam-fprintd
 libpam-gnome-keyring
+libpam-sss
 libproxy1-plugin-gsettings
 libproxy1-plugin-networkmanager
 libwmf0.2-7-gtk
