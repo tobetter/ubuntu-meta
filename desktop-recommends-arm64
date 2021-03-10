@@ -1,4 +1,3 @@
-adcli
 aisleriot
 app-install-data-partner
 apport-gtk
@@ -56,6 +55,7 @@ gnome-logs
 gnome-mahjongg
 gnome-mines
 gnome-power-manager
+gnome-remote-desktop
 gnome-screenshot
 gnome-sudoku
 gnome-system-monitor
@@ -110,7 +110,6 @@ printer-driver-pxljr
 printer-driver-sag-gdi
 printer-driver-splix
 pulseaudio-module-bluetooth
-realmd
 remmina
 rhythmbox
 seahorse
@@ -118,8 +117,6 @@ shotwell
 simple-scan
 snapd
 speech-dispatcher
-sssd
-sssd-tools
 system-config-printer
 thunderbird
 thunderbird-gnome-support

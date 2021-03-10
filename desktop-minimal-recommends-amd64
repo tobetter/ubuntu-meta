@@ -1,5 +1,4 @@
 acpi-support
-adcli
 app-install-data-partner
 apport-gtk
 appstream
@@ -94,12 +93,9 @@ printer-driver-pxljr
 printer-driver-sag-gdi
 printer-driver-splix
 pulseaudio-module-bluetooth
-realmd
 seahorse
 snapd
 speech-dispatcher
-sssd
-sssd-tools
 system-config-printer
 ubuntu-docs
 ubuntu-report

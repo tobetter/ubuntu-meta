@@ -1,3 +1,16 @@
+ubuntu-meta (1.465) hirsute; urgency=medium
+
+  * Refreshed dependencies
+  * Added gnome-remote-desktop to desktop-raspi-recommends, desktop-
+    recommends
+  * Removed adcli from desktop-minimal-recommends, desktop-recommends
+  * Removed realmd from desktop-minimal-recommends, desktop-recommends
+  * Removed sssd from desktop-minimal-recommends, desktop-recommends
+  * Removed sssd-tools from desktop-minimal-recommends, desktop-
+    recommends
+
+ -- Didier Roche <didrocks@ubuntu.com>  Wed, 10 Mar 2021 14:10:32 +0100
+
 ubuntu-meta (1.464) hirsute; urgency=medium
 
   * Refreshed dependencies
