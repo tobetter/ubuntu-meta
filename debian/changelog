@@ -1,3 +1,11 @@
+ubuntu-meta (1.466) hirsute; urgency=medium
+
+  * Refreshed dependencies
+  * Added needrestart to server-raspi-recommends, server-recommends LP: #1921546
+  * Moved usrmerge to minimal-recommends
+
+ -- Dimitri John Ledkov <xnox@ubuntu.com>  Fri, 26 Mar 2021 19:09:40 +0000
+
 ubuntu-meta (1.465) hirsute; urgency=medium
 
   * Refreshed dependencies
