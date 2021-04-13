@@ -1,3 +1,12 @@
+ubuntu-meta (1.467) hirsute; urgency=medium
+
+  * Refreshed dependencies
+  * Added ubuntu-raspi-settings to server-raspi
+  * Added wpasupplicant to desktop-raspi
+  * Removed ubuntu-wallpapers-groovy-raspi from desktop-raspi-recommends
+
+ -- Łukasz 'sil2100' Zemczak <lukasz.zemczak@ubuntu.com>  Tue, 13 Apr 2021 18:23:22 +0200
+
 ubuntu-meta (1.466) hirsute; urgency=medium
 
   * Refreshed dependencies
