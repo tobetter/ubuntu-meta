@@ -17,7 +17,7 @@ lshw
 lsof
 ltrace
 man-db
-mime-support
+media-types
 parted
 pciutils
 psmisc

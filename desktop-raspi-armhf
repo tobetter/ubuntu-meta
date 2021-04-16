@@ -25,7 +25,6 @@ ubuntu-raspi-settings
 unzip
 wireless-tools
 wpasupplicant
-wpasupplicant
 xkb-data
 xorg
 zip
