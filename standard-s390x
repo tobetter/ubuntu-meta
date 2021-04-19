@@ -25,3 +25,4 @@ strace
 time
 usbutils
 wget
+xz-utils

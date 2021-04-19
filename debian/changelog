@@ -1,3 +1,10 @@
+ubuntu-meta (1.469) hirsute; urgency=medium
+
+  * Refreshed dependencies
+  * Added xz-utils to standard
+
+ -- Steve Langasek <steve.langasek@ubuntu.com>  Mon, 19 Apr 2021 15:58:13 +0000
+
 ubuntu-meta (1.468) hirsute; urgency=medium
 
   * Refreshed dependencies
