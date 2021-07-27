@@ -1,3 +1,9 @@
+ubuntu-meta (1.471) impish; urgency=medium
+
+  * update.cfg, c/control: Add ubuntu-server-minimal metapackage.
+
+ -- Michael Hudson-Doyle <michael.hudson@ubuntu.com>  Tue, 27 Jul 2021 16:33:18 +1200
+
 ubuntu-meta (1.470) impish; urgency=medium
 
   * Switched to impish
