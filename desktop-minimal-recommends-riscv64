@@ -40,6 +40,7 @@ gnome-calculator
 gnome-characters
 gnome-disk-utility
 gnome-font-viewer
+gnome-initial-setup
 gnome-keyring
 gnome-logs
 gnome-power-manager
@@ -92,12 +93,12 @@ snapd
 speech-dispatcher
 system-config-printer
 ubuntu-docs
+ubuntu-report
 ubuntu-wallpapers
 whoopsie
 xcursor-themes
 xdg-desktop-portal-gtk
 xdg-utils
-xul-ext-ubufox
 yaru-theme-gnome-shell
 yaru-theme-gtk
 yaru-theme-icon

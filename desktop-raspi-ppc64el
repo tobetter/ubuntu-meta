@@ -9,6 +9,7 @@ fonts-freefont-ttf
 foomatic-db-compressed-ppds
 ghostscript-x
 inputattach
+language-selector-common
 libsasl2-modules
 libu2f-udev
 openprinting-ppds

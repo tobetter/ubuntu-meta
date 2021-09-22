@@ -1,3 +1,23 @@
+ubuntu-meta (1.472) impish; urgency=medium
+
+  * Refreshed dependencies
+  * Added dmidecode to standard [riscv64]
+  * Added gnome-initial-setup to desktop-minimal-recommends [riscv64],
+    desktop-recommends [riscv64]
+  * Added language-selector-common to desktop, desktop-minimal, desktop-
+    raspi
+  * Added open-vm-tools to server-raspi-recommends [arm64], server-
+    recommends [arm64]
+  * Added ubuntu-report to desktop-minimal-recommends [riscv64], desktop-
+    recommends [riscv64]
+  * Removed firefox from desktop-minimal-recommends [amd64 arm64 armhf
+    ppc64el s390x], desktop-recommends [amd64 arm64 armhf ppc64el s390x]
+  * Removed language-selector-common from standard
+  * Removed xul-ext-ubufox from desktop-minimal-recommends, desktop-
+    recommends
+
+ -- Olivier Tilloy <olivier.tilloy@canonical.com>  Wed, 22 Sep 2021 11:09:00 +0200
+
 ubuntu-meta (1.471) impish; urgency=medium
 
   * update.cfg, c/control: Add ubuntu-server-minimal metapackage.

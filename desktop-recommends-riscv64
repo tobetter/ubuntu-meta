@@ -46,6 +46,7 @@ gnome-calendar
 gnome-characters
 gnome-disk-utility
 gnome-font-viewer
+gnome-initial-setup
 gnome-keyring
 gnome-logs
 gnome-mahjongg
@@ -112,12 +113,12 @@ system-config-printer
 totem
 transmission-gtk
 ubuntu-docs
+ubuntu-report
 ubuntu-wallpapers
 whoopsie
 xcursor-themes
 xdg-desktop-portal-gtk
 xdg-utils
-xul-ext-ubufox
 yaru-theme-gnome-shell
 yaru-theme-gtk
 yaru-theme-icon

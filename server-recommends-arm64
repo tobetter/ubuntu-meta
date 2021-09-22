@@ -3,4 +3,5 @@ landscape-common
 lxd-agent-loader
 needrestart
 open-iscsi
+open-vm-tools
 snapd

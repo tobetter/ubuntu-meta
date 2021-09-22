@@ -2,6 +2,7 @@ bind9-dnsutils
 busybox-static
 cpio
 cron
+dmidecode
 dosfstools
 ed
 file
@@ -9,7 +10,6 @@ ftp
 hdparm
 info
 iptables
-language-selector-common
 libpam-systemd
 logrotate
 lshw

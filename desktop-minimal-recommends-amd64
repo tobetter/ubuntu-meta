@@ -16,7 +16,6 @@ dirmngr
 eog
 evince
 file-roller
-firefox
 fonts-indic
 fonts-kacst-one
 fonts-khmeros-core
@@ -103,7 +102,6 @@ whoopsie
 xcursor-themes
 xdg-desktop-portal-gtk
 xdg-utils
-xul-ext-ubufox
 yaru-theme-gnome-shell
 yaru-theme-gtk
 yaru-theme-icon
