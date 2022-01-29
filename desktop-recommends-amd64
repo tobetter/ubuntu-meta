@@ -1,6 +1,5 @@
 acpi-support
 aisleriot
-app-install-data-partner
 apport-gtk
 appstream
 apt-config-icons-hidpi
@@ -128,6 +127,7 @@ ubuntu-wallpapers
 usb-creator-gtk
 whoopsie
 xcursor-themes
+xdg-desktop-portal-gnome
 xdg-desktop-portal-gtk
 xdg-utils
 yaru-theme-gnome-shell

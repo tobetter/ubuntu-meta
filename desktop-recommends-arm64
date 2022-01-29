@@ -1,5 +1,4 @@
 aisleriot
-app-install-data-partner
 apport-gtk
 appstream
 apt-config-icons-hidpi
@@ -125,6 +124,7 @@ ubuntu-report
 ubuntu-wallpapers
 whoopsie
 xcursor-themes
+xdg-desktop-portal-gnome
 xdg-desktop-portal-gtk
 xdg-utils
 yaru-theme-gnome-shell

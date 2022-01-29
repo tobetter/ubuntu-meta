@@ -4,3 +4,4 @@ lxd-agent-loader
 needrestart
 open-iscsi
 snapd
+unattended-upgrades

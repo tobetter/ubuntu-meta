@@ -1,3 +1,20 @@
+ubuntu-meta (1.474) jammy; urgency=medium
+
+  * Refreshed dependencies
+  * Added gnome-remote-desktop to desktop-minimal-recommends
+  * Added ubuntu-drivers-common to server-minimal
+  * Added unattended-upgrades to server-raspi-recommends, server-
+    recommends
+  * Added xdg-desktop-portal-gnome to desktop-minimal-recommends,
+    desktop-recommends
+  * Removed app-install-data-partner from desktop-minimal-recommends,
+    desktop-recommends
+  * Removed gnome-remote-desktop from desktop-raspi-recommends
+  * Removed wslu from wsl [amd64 arm64]
+  * Moved unattended-upgrades to server-minimal-recommends
+
+ -- Steve Langasek <steve.langasek@ubuntu.com>  Sat, 29 Jan 2022 00:47:42 +0000
+
 ubuntu-meta (1.473) jammy; urgency=medium
 
   * Switched to jammy

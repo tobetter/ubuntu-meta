@@ -18,7 +18,7 @@ ssh-import-id
 sudo
 systemd
 systemd-sysv
+ubuntu-drivers-common
 ubuntu-release-upgrader-core
 udev
-unattended-upgrades
 xfsprogs
