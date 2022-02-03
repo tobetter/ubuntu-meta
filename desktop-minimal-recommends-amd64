@@ -95,6 +95,7 @@ seahorse
 snapd
 speech-dispatcher
 system-config-printer
+systemd-oomd
 ubuntu-docs
 ubuntu-report
 ubuntu-wallpapers

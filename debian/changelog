@@ -1,3 +1,10 @@
+ubuntu-meta (1.475) jammy; urgency=medium
+
+  * Refreshed dependencies
+  * Added systemd-oomd to desktop-minimal-recommends, desktop-recommends
+
+ -- Lukas Märdian <slyon@ubuntu.com>  Thu, 03 Feb 2022 09:04:18 +0100
+
 ubuntu-meta (1.474) jammy; urgency=medium
 
   * Refreshed dependencies

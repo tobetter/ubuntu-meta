@@ -109,6 +109,7 @@ simple-scan
 snapd
 speech-dispatcher
 system-config-printer
+systemd-oomd
 totem
 transmission-gtk
 ubuntu-docs

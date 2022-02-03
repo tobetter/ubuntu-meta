@@ -117,6 +117,7 @@ simple-scan
 snapd
 speech-dispatcher
 system-config-printer
+systemd-oomd
 thunderbird
 thunderbird-gnome-support
 totem
