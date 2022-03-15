@@ -1,3 +1,10 @@
+ubuntu-meta (1.477) jammy; urgency=medium
+
+  * Refreshed dependencies
+  * Added gnupg to wsl
+
+ -- Didier Roche <didrocks@ubuntu.com>  Tue, 15 Mar 2022 17:18:42 +0100
+
 ubuntu-meta (1.476) jammy; urgency=medium
 
   * Refreshed dependencies
