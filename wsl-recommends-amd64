@@ -1,2 +1,5 @@
 dbus-x11
+motd-news-config
 show-motd
+snapd
+unattended-upgrades

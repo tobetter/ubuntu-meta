@@ -1,2 +1,14 @@
+apport
+binutils
+byobu
+curl
+dirmngr
+git
 gnupg
+htop
+patch
+screen
+software-properties-common
+tmux
+vim
 wsl-setup

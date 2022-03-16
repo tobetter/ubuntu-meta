@@ -1,3 +1,24 @@
+ubuntu-meta (1.478) jammy; urgency=medium
+
+  * Refreshed dependencies
+  * Added apport to wsl
+  * Added binutils to wsl
+  * Added byobu to wsl
+  * Added curl to wsl
+  * Added dirmngr to wsl
+  * Added git to wsl
+  * Added htop to wsl
+  * Added motd-news-config to wsl-recommends
+  * Added patch to wsl
+  * Added screen to wsl
+  * Added snapd to wsl-recommends
+  * Added software-properties-common to wsl
+  * Added tmux to wsl
+  * Added unattended-upgrades to wsl-recommends
+  * Added vim to wsl
+
+ -- Didier Roche <didrocks@ubuntu.com>  Wed, 16 Mar 2022 18:02:07 +0100
+
 ubuntu-meta (1.477) jammy; urgency=medium
 
   * Refreshed dependencies
