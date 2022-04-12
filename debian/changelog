@@ -1,3 +1,10 @@
+ubuntu-meta (1.480) jammy; urgency=medium
+
+  * Refreshed dependencies
+  * Added fonts-ubuntu to wsl (LP: #1968720)
+
+ -- Didier Roche <didrocks@ubuntu.com>  Tue, 12 Apr 2022 14:12:50 +0200
+
 ubuntu-meta (1.479) jammy; urgency=medium
 
   * Refreshed dependencies
