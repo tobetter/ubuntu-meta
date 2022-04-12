@@ -5,7 +5,6 @@ byobu
 cloud-guest-utils
 cloud-initramfs-copymods
 cloud-initramfs-dyn-netconf
-cloud-initramfs-growroot
 curl
 dirmngr
 ethtool

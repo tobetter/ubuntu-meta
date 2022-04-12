@@ -9,7 +9,6 @@ file
 ftp
 hdparm
 info
-iptables
 libpam-systemd
 logrotate
 lshw
@@ -17,6 +16,7 @@ lsof
 ltrace
 man-db
 media-types
+nftables
 parted
 pciutils
 psmisc

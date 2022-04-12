@@ -6,6 +6,7 @@ btrfs-progs
 cloud-init
 cryptsetup
 dbus
+flash-kernel
 lvm2
 mdadm
 multipath-tools

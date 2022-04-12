@@ -2,6 +2,7 @@ apparmor
 bash-completion
 command-not-found
 friendly-recovery
+iptables
 iputils-tracepath
 irqbalance
 manpages

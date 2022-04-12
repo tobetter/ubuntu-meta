@@ -9,13 +9,13 @@ file
 ftp
 hdparm
 info
-iptables
 libpam-systemd
 logrotate
 lshw
 lsof
 man-db
 media-types
+nftables
 parted
 pciutils
 psmisc

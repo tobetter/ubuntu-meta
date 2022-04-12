@@ -4,6 +4,7 @@ anacron
 bc
 ca-certificates
 cloud-initramfs-growroot
+flash-kernel
 fonts-dejavu-core
 fonts-freefont-ttf
 foomatic-db-compressed-ppds
