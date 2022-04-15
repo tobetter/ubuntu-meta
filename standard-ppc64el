@@ -12,7 +12,6 @@ libpam-systemd
 logrotate
 lshw
 lsof
-ltrace
 man-db
 media-types
 nftables

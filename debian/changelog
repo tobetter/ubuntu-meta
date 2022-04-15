@@ -1,3 +1,10 @@
+ubuntu-meta (1.481) jammy; urgency=medium
+
+  * Refreshed dependencies
+  * Removed ltrace from standard [amd64 arm64 armhf ppc64el s390x]
+
+ -- Steve Langasek <steve.langasek@ubuntu.com>  Fri, 15 Apr 2022 15:39:03 +0000
+
 ubuntu-meta (1.480) jammy; urgency=medium
 
   * Refreshed dependencies
