@@ -3,7 +3,6 @@ apport
 apt
 bcache-tools
 btrfs-progs
-cloud-init
 cryptsetup
 dbus
 lvm2

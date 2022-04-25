@@ -2,9 +2,6 @@ apport
 bcache-tools
 btrfs-progs
 byobu
-cloud-guest-utils
-cloud-initramfs-copymods
-cloud-initramfs-dyn-netconf
 curl
 dirmngr
 ethtool
